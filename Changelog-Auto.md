@@ -1,5 +1,6 @@
 # 🦙 Automated Changelog
 
+- 2026-05-11T0043 · [[MCP Developer Mode Relay]]
 - 2026-05-11T0031 · [[Latest Run Summary]]
 - 2026-05-11T0031 · [[Vault Architect]]
 - 2026-05-11T0031 · [[Fireforged Toolset]]
@@ -15,7 +16,6 @@
 - 2026-05-11T0031 · [[vaultforge-code-copied-active-xp4life-obsidian-theme-into-f-servers-vault-and-ac-20260510-142825]]
 - 2026-05-11T0031 · [[vaultforge-code-verified-codex-local-state-warning-appears-resolved-20260510-113534]]
 - 2026-05-11T0029 · [[MCP Workflow B Gate Run]]
-- 2026-05-11T0027 · [[MCP Developer Mode Relay]]
 - 2026-05-11T0019 · [[Reward Gear]]
 - 2026-05-11T0012 · [[MCP Local Connection Trial]]
 - 2026-05-11T0006 · [[Three Day Forge Streak 1]]

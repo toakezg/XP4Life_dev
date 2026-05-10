@@ -10,7 +10,7 @@ achievement_unlocks:
 title_reward: "Relay Operator"
 created: 2026-05-11
 due:
-progress_current: 0
+progress_current: 3
 progress_target: 5
 quest_type: manual
 xp4l_rule_id: mcp-developer-mode-relay
@@ -28,19 +28,19 @@ tags:
 Carry the MCP bridge across the last live-connection gap. Keep the gate narrow, prove localhost first, raise only one temporary HTTPS relay, then let ChatGPT Developer Mode touch the current `status` and `list_sources` surface without opening search, secrets, writes, or paid calls.
 
 ## Tasks
-- [ ] Recheck the gate board
-  - [ ] Confirm `MCP-GATE-001` still blocks `search` and `fetch`
-  - [ ] Confirm `MCP-GATE-002` allows one temporary HTTPS tunnel
-  - [ ] Confirm `MCP-GATE-003` allows one Developer Mode prompt test
-  - [ ] Confirm no write-capable tool brief exists for `MCP-GATE-004`
-- [ ] Prove local MCP health
-  - [ ] Check `http://127.0.0.1:8787/`
-  - [ ] Confirm the server reports `local-read-only`
-  - [ ] Confirm the tools are only `status` and `list_sources`
-- [ ] Raise a clean temporary tunnel
-  - [ ] Start one tunnel to `127.0.0.1:8787`
-  - [ ] Verify public health returns the MCP setup server
-  - [ ] Verify public `/mcp` initialize succeeds
+- [x] Recheck the gate board
+  - [x] Confirm `MCP-GATE-001` still blocks `search` and `fetch`
+  - [x] Confirm `MCP-GATE-002` allows one temporary HTTPS tunnel
+  - [x] Confirm `MCP-GATE-003` allows one Developer Mode prompt test
+  - [x] Confirm no write-capable tool brief exists for `MCP-GATE-004`
+- [x] Prove local MCP health
+  - [x] Check `http://127.0.0.1:8787/`
+  - [x] Confirm the server reports `local-read-only`
+  - [x] Confirm the tools are only `status` and `list_sources`
+- [x] Raise a clean temporary tunnel
+  - [x] Start one tunnel to `127.0.0.1:8787`
+  - [x] Verify public health returns the MCP setup server
+  - [x] Verify public `/mcp` initialize succeeds
   - [ ] Stop and record the blocker if the tunnel returns 503, 408, or timeout
 - [ ] Run the Developer Mode prompt packet
   - [ ] Add the healthy temporary `/mcp` URL in ChatGPT Developer Mode
@@ -191,6 +191,23 @@ dv.paragraph("```mermaid\n" + chart + "\n```");
 - `CHATGPT_DEVELOPER_MODE_TEST_PACKET.md` prompts are run or explicitly blocked by a recorded tunnel failure.
 - `TASKS.md`, `CHANGELOG.md`, and `DCS_HANDOFF_PACKET.md` are updated with the final pass/fail state.
 - This quest records whether the relay ended in ChatGPT Developer Mode success or a truthful tunnel-provider blocker.
+
+Current relay:
+
+```text
+https://shaky-doodles-smash.loca.lt/mcp
+```
+
+Current proof:
+
+```text
+runs\tunnel\20260511T003801-gate003-relay-retry
+public health: passed
+public /mcp initialize: passed
+tools/list: passed
+status: passed
+list_sources: passed
+```
 
 ## Source Notes
 - `F:\servers\mcp\GATE.md`
