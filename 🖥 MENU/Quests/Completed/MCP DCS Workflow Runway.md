@@ -1,13 +1,13 @@
 ---
 quest_id: QST-MCP-DCS-WORKFLOW-RUNWAY
-name: "MCP DCS Workflow Runway"
-status: active
+name: MCP DCS Workflow Runway
+status: completed
 category: system
 tier: rare
 xp_reward: 300
 achievement_unlocks:
   - MCP-SYS-004
-title_reward: "Recursive Bridgewright"
+title_reward: Recursive Bridgewright
 created: 2026-05-10
 due:
 progress_current: 4
@@ -21,6 +21,7 @@ tags:
   - dcs
   - workflow
   - xp4l
+completed_on: 2026-05-11
 ---
 # MCP DCS Workflow Runway
 
@@ -37,14 +38,14 @@ Turn the MCP setup into a bounded DCS runway without letting it sprawl. The proo
   - [x] List source evidence paths
   - [x] Record layer statuses
   - [x] Add the next bounded prompt
-- [ ] Define cycle compatibility
+- [x] Define cycle compatibility ✅ 2026-05-11
   - [x] Document `--cycle 1`
   - [x] Document `--cycle 2`
-  - [ ] Require a handoff packet before cycling
+  - [x] Require a handoff packet before cycling ✅ 2026-05-11
   - [x] Stop when a layer gate fails
-- [ ] Define budget-time compatibility
-  - [ ] Document `--budget-time 30m`
-  - [ ] Document `--budget-time 90m`
+- [x] Define budget-time compatibility ✅ 2026-05-11
+  - [x] Document `--budget-time 30m` ✅ 2026-05-11
+  - [x] Document `--budget-time 90m` ✅ 2026-05-11
   - [x] Require clean stop status
   - [x] Record partial verification honestly
 - [x] Convert stable DCS into workflow

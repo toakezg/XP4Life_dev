@@ -195,7 +195,7 @@ dv.paragraph("```mermaid\n" + chart + "\n```");
 Current relay:
 
 ```text
-https://shaky-doodles-smash.loca.lt/mcp
+https://fair-ties-chew.loca.lt/mcp
 ```
 
 Current proof:
@@ -207,6 +207,29 @@ public /mcp initialize: passed
 tools/list: passed
 status: passed
 list_sources: passed
+```
+
+Latest workflow cycle:
+
+```text
+runs\workflow\20260511T-cycle2-budget15
+local MCP health: passed
+public health route: flaky, timed out once
+public /mcp tools/list: passed
+public /mcp status: passed
+public /mcp list_sources: passed
+stopped at manual ChatGPT Developer Mode boundary
+```
+
+Search/fetch relay update:
+
+```text
+runs\tunnel\20260511T005717-search-fetch-relay
+tools/list: status, list_sources, search, fetch
+search: passed
+fetch: passed
+fetch .env: denied
+current refreshed relay: runs\tunnel\20260511T010138-search-fetch-relay-refresh
 ```
 
 ## Source Notes

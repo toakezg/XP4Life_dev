@@ -166,6 +166,596 @@
       "timestamp": "2026-05-09T20:21:25+00:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-144415": {
+      "action": "Add ChatGPT Developer Mode test packet for the approved `status` and `list_sources` tool surface #mcp #chatgpt-apps #docs \ud83c\udd94 mcp-devmode-test-packet 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-144415",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:15+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-144857": {
+      "action": "Add ChatGPT Developer Mode test packet for the approved `status` and `list_sources` tool surface #mcp #chatgpt-apps #docs \ud83c\udd94 mcp-devmode-test-packet 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-144857",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:57+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-150020": {
+      "action": "Add ChatGPT Developer Mode test packet for the approved `status` and `list_sources` tool surface #mcp #chatgpt-apps #docs \ud83c\udd94 mcp-devmode-test-packet 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-150020",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:20+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-150042": {
+      "action": "Add ChatGPT Developer Mode test packet for the approved `status` and `list_sources` tool surface #mcp #chatgpt-apps #docs \ud83c\udd94 mcp-devmode-test-packet 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-150042",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:42+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-150724": {
+      "action": "Add ChatGPT Developer Mode test packet for the approved `status` and `list_sources` tool surface #mcp #chatgpt-apps #docs \ud83c\udd94 mcp-devmode-test-packet 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-150724",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:24+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-150826": {
+      "action": "Add ChatGPT Developer Mode test packet for the approved `status` and `list_sources` tool surface #mcp #chatgpt-apps #docs \ud83c\udd94 mcp-devmode-test-packet 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-150826",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:26+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-151549": {
+      "action": "Add ChatGPT Developer Mode test packet for the approved `status` and `list_sources` tool surface #mcp #chatgpt-apps #docs \ud83c\udd94 mcp-devmode-test-packet 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-chatgpt-developer-mode-test-packet-for-the-approved-status-a-20260510-151549",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:49+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-144428": {
+      "action": "Add DCS Recursive Forge packet and handoff for MCP setup #mcp #dcs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-144428",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:28+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-144910": {
+      "action": "Add DCS Recursive Forge packet and handoff for MCP setup #mcp #dcs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-144910",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:49:10+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-150033": {
+      "action": "Add DCS Recursive Forge packet and handoff for MCP setup #mcp #dcs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-150033",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:33+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-150055": {
+      "action": "Add DCS Recursive Forge packet and handoff for MCP setup #mcp #dcs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-150055",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:55+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-150737": {
+      "action": "Add DCS Recursive Forge packet and handoff for MCP setup #mcp #dcs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-150737",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:37+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-150839": {
+      "action": "Add DCS Recursive Forge packet and handoff for MCP setup #mcp #dcs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-150839",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:39+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-151602": {
+      "action": "Add DCS Recursive Forge packet and handoff for MCP setup #mcp #dcs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-dcs-recursive-forge-packet-and-handoff-for-mcp-setup-mcp-dcs-20260510-151602",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:16:02+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-144416": {
+      "action": "Add Gate 010 DCS connection feedback docs for visual diagnostics, local roles, and persistent boundary #mcp #dcs #docs \ud83c\udd94 mcp-gate010-dcs-feedback 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-144416",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:16+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-144858": {
+      "action": "Add Gate 010 DCS connection feedback docs for visual diagnostics, local roles, and persistent boundary #mcp #dcs #docs \ud83c\udd94 mcp-gate010-dcs-feedback 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-144858",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:58+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-150021": {
+      "action": "Add Gate 010 DCS connection feedback docs for visual diagnostics, local roles, and persistent boundary #mcp #dcs #docs \ud83c\udd94 mcp-gate010-dcs-feedback 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-150021",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:21+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-150043": {
+      "action": "Add Gate 010 DCS connection feedback docs for visual diagnostics, local roles, and persistent boundary #mcp #dcs #docs \ud83c\udd94 mcp-gate010-dcs-feedback 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-150043",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:43+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-150725": {
+      "action": "Add Gate 010 DCS connection feedback docs for visual diagnostics, local roles, and persistent boundary #mcp #dcs #docs \ud83c\udd94 mcp-gate010-dcs-feedback 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-150725",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:25+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-150827": {
+      "action": "Add Gate 010 DCS connection feedback docs for visual diagnostics, local roles, and persistent boundary #mcp #dcs #docs \ud83c\udd94 mcp-gate010-dcs-feedback 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-150827",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:27+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-151550": {
+      "action": "Add Gate 010 DCS connection feedback docs for visual diagnostics, local roles, and persistent boundary #mcp #dcs #docs \ud83c\udd94 mcp-gate010-dcs-feedback 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate-010-dcs-connection-feedback-docs-for-visual-diagnostics-20260510-151550",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:50+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-144420": {
+      "action": "Add `GATE.md` as the MCP hard-gate approval surface modeled on VaultForge `HARD_GATES.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-144420",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:20+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-144902": {
+      "action": "Add `GATE.md` as the MCP hard-gate approval surface modeled on VaultForge `HARD_GATES.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-144902",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:49:02+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-150025": {
+      "action": "Add `GATE.md` as the MCP hard-gate approval surface modeled on VaultForge `HARD_GATES.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-150025",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:25+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-150047": {
+      "action": "Add `GATE.md` as the MCP hard-gate approval surface modeled on VaultForge `HARD_GATES.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-150047",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:47+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-150729": {
+      "action": "Add `GATE.md` as the MCP hard-gate approval surface modeled on VaultForge `HARD_GATES.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-150729",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:29+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-150831": {
+      "action": "Add `GATE.md` as the MCP hard-gate approval surface modeled on VaultForge `HARD_GATES.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-150831",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:31+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-151554": {
+      "action": "Add `GATE.md` as the MCP hard-gate approval surface modeled on VaultForge `HARD_GATES.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-gate.md-as-the-mcp-hard-gate-approval-surface-modeled-on-vau-20260510-151554",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:54+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-mcp-gate-013-as-the-separate-paid-openai-api-approval-gate-d-20260510-150723": {
+      "action": "Add `MCP-GATE-013` as the separate paid OpenAI API approval gate, default blocked #mcp #secrets #api #gates \ud83c\udd94 mcp-paid-api-gate013-created 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-mcp-gate-013-as-the-separate-paid-openai-api-approval-gate-d-20260510-150723",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:23+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-add-mcp-gate-013-as-the-separate-paid-openai-api-approval-gate-d-20260510-150824": {
+      "action": "Add `MCP-GATE-013` as the separate paid OpenAI API approval gate, default blocked #mcp #secrets #api #gates \ud83c\udd94 mcp-paid-api-gate013-created 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-mcp-gate-013-as-the-separate-paid-openai-api-approval-gate-d-20260510-150824",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:24+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-add-mcp-gate-013-as-the-separate-paid-openai-api-approval-gate-d-20260510-151547": {
+      "action": "Add `MCP-GATE-013` as the separate paid OpenAI API approval gate, default blocked #mcp #secrets #api #gates \ud83c\udd94 mcp-paid-api-gate013-created 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-mcp-gate-013-as-the-separate-paid-openai-api-approval-gate-d-20260510-151547",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:47+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-144426": {
+      "action": "Add MCP setup core doc spine: `README.md`, `SYSTEM.md`, `PLAN.md`, `TASKS.md`, `CHANGELOG.md`, and `CODEX_START.md` #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-144426",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:26+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-144908": {
+      "action": "Add MCP setup core doc spine: `README.md`, `SYSTEM.md`, `PLAN.md`, `TASKS.md`, `CHANGELOG.md`, and `CODEX_START.md` #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-144908",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:49:08+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-150031": {
+      "action": "Add MCP setup core doc spine: `README.md`, `SYSTEM.md`, `PLAN.md`, `TASKS.md`, `CHANGELOG.md`, and `CODEX_START.md` #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-150031",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:31+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-150053": {
+      "action": "Add MCP setup core doc spine: `README.md`, `SYSTEM.md`, `PLAN.md`, `TASKS.md`, `CHANGELOG.md`, and `CODEX_START.md` #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-150053",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:53+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-150735": {
+      "action": "Add MCP setup core doc spine: `README.md`, `SYSTEM.md`, `PLAN.md`, `TASKS.md`, `CHANGELOG.md`, and `CODEX_START.md` #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-150735",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:35+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-150837": {
+      "action": "Add MCP setup core doc spine: `README.md`, `SYSTEM.md`, `PLAN.md`, `TASKS.md`, `CHANGELOG.md`, and `CODEX_START.md` #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-150837",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:37+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-151600": {
+      "action": "Add MCP setup core doc spine: `README.md`, `SYSTEM.md`, `PLAN.md`, `TASKS.md`, `CHANGELOG.md`, and `CODEX_START.md` #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-mcp-setup-core-doc-spine-readme.md-system.md-plan.md-tasks.m-20260510-151600",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:16:00+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-144427": {
+      "action": "Add planning reference docs for setup notes, tool surface, security gates, and local testing #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-144427",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:27+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-144909": {
+      "action": "Add planning reference docs for setup notes, tool surface, security gates, and local testing #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-144909",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:49:09+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-150032": {
+      "action": "Add planning reference docs for setup notes, tool surface, security gates, and local testing #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-150032",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:32+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-150054": {
+      "action": "Add planning reference docs for setup notes, tool surface, security gates, and local testing #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-150054",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:54+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-150736": {
+      "action": "Add planning reference docs for setup notes, tool surface, security gates, and local testing #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-150736",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:36+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-150838": {
+      "action": "Add planning reference docs for setup notes, tool surface, security gates, and local testing #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-150838",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:38+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-151601": {
+      "action": "Add planning reference docs for setup notes, tool surface, security gates, and local testing #mcp #docs 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-planning-reference-docs-for-setup-notes-tool-surface-securit-20260510-151601",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:16:01+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-144421": {
+      "action": "Add `WORKFLOW_B_MCP_PLAN.md` for a longer gate-led MCP workflow run #mcp #workflow 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-144421",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:21+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-144903": {
+      "action": "Add `WORKFLOW_B_MCP_PLAN.md` for a longer gate-led MCP workflow run #mcp #workflow 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-144903",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:49:03+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-150026": {
+      "action": "Add `WORKFLOW_B_MCP_PLAN.md` for a longer gate-led MCP workflow run #mcp #workflow 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-150026",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:26+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-150048": {
+      "action": "Add `WORKFLOW_B_MCP_PLAN.md` for a longer gate-led MCP workflow run #mcp #workflow 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-150048",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:48+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-150730": {
+      "action": "Add `WORKFLOW_B_MCP_PLAN.md` for a longer gate-led MCP workflow run #mcp #workflow 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-150730",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:30+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-150832": {
+      "action": "Add `WORKFLOW_B_MCP_PLAN.md` for a longer gate-led MCP workflow run #mcp #workflow 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-150832",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:32+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-151555": {
+      "action": "Add `WORKFLOW_B_MCP_PLAN.md` for a longer gate-led MCP workflow run #mcp #workflow 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-workflow_b_mcp_plan.md-for-a-longer-gate-led-mcp-workflow-ru-20260510-151555",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:55+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-144429": {
+      "action": "Add XP4Life MCP procedure quests for groundwork, tool gates, local trial, and DCS runway #mcp #xp4l 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-144429",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:29+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-144911": {
+      "action": "Add XP4Life MCP procedure quests for groundwork, tool gates, local trial, and DCS runway #mcp #xp4l 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-144911",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:49:11+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-150034": {
+      "action": "Add XP4Life MCP procedure quests for groundwork, tool gates, local trial, and DCS runway #mcp #xp4l 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-150034",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:34+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-150056": {
+      "action": "Add XP4Life MCP procedure quests for groundwork, tool gates, local trial, and DCS runway #mcp #xp4l 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-150056",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:56+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-150738": {
+      "action": "Add XP4Life MCP procedure quests for groundwork, tool gates, local trial, and DCS runway #mcp #xp4l 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-150738",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:38+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-150840": {
+      "action": "Add XP4Life MCP procedure quests for groundwork, tool gates, local trial, and DCS runway #mcp #xp4l 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-150840",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:40+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-151603": {
+      "action": "Add XP4Life MCP procedure quests for groundwork, tool gates, local trial, and DCS runway #mcp #xp4l 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-add-xp4life-mcp-procedure-quests-for-groundwork-tool-gates-local-20260510-151603",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:16:03+00:00",
+      "xp_awarded": 42
+    },
     "vaultforge-code-added---save-targets-and---target-found-so-discovered-dot4-route-20260510-075546": {
       "action": "Added `--save-targets` and `--target-found` so discovered dot4 routes can be cached and reused without rescanning the drive.",
       "category": "coding",
@@ -246,6 +836,146 @@
       "timestamp": "2026-04-30T19:04:40+00:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-144413": {
+      "action": "Attempt Gate 003 tunnel refresh for Developer Mode; local server passed, public localtunnel returned 503 and blocked the ChatGPT-side test #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-tunnel-blocked 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-144413",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:13+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-144854": {
+      "action": "Attempt Gate 003 tunnel refresh for Developer Mode; local server passed, public localtunnel returned 503 and blocked the ChatGPT-side test #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-tunnel-blocked 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-144854",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:54+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-150015": {
+      "action": "Attempt Gate 003 tunnel refresh for Developer Mode; local server passed, public localtunnel returned 503 and blocked the ChatGPT-side test #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-tunnel-blocked 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-150015",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:15+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-150037": {
+      "action": "Attempt Gate 003 tunnel refresh for Developer Mode; local server passed, public localtunnel returned 503 and blocked the ChatGPT-side test #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-tunnel-blocked 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-150037",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:37+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-150718": {
+      "action": "Attempt Gate 003 tunnel refresh for Developer Mode; local server passed, public localtunnel returned 503 and blocked the ChatGPT-side test #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-tunnel-blocked 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-150718",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:18+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-150819": {
+      "action": "Attempt Gate 003 tunnel refresh for Developer Mode; local server passed, public localtunnel returned 503 and blocked the ChatGPT-side test #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-tunnel-blocked 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-150819",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:19+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-151542": {
+      "action": "Attempt Gate 003 tunnel refresh for Developer Mode; local server passed, public localtunnel returned 503 and blocked the ChatGPT-side test #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-tunnel-blocked 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-gate-003-tunnel-refresh-for-developer-mode-local-server--20260510-151542",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:42+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-144410": {
+      "action": "Attempt OpenAI API smoke run safely enough to stop before paid call when auth failed; record 403 and blank repo-local key #mcp #secrets #api \ud83c\udd94 mcp-openai-smoke-403 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-144410",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:10+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-144851": {
+      "action": "Attempt OpenAI API smoke run safely enough to stop before paid call when auth failed; record 403 and blank repo-local key #mcp #secrets #api \ud83c\udd94 mcp-openai-smoke-403 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-144851",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:51+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-150012": {
+      "action": "Attempt OpenAI API smoke run safely enough to stop before paid call when auth failed; record 403 and blank repo-local key #mcp #secrets #api \ud83c\udd94 mcp-openai-smoke-403 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-150012",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:12+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-150034": {
+      "action": "Attempt OpenAI API smoke run safely enough to stop before paid call when auth failed; record 403 and blank repo-local key #mcp #secrets #api \ud83c\udd94 mcp-openai-smoke-403 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-150034",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:34+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-150715": {
+      "action": "Attempt OpenAI API smoke run safely enough to stop before paid call when auth failed; record 403 and blank repo-local key #mcp #secrets #api \ud83c\udd94 mcp-openai-smoke-403 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-150715",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:15+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-150816": {
+      "action": "Attempt OpenAI API smoke run safely enough to stop before paid call when auth failed; record 403 and blank repo-local key #mcp #secrets #api \ud83c\udd94 mcp-openai-smoke-403 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-150816",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:16+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-151539": {
+      "action": "Attempt OpenAI API smoke run safely enough to stop before paid call when auth failed; record 403 and blank repo-local key #mcp #secrets #api \ud83c\udd94 mcp-openai-smoke-403 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-attempt-openai-api-smoke-run-safely-enough-to-stop-before-paid-c-20260510-151539",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:39+00:00",
+      "xp_awarded": 42
+    },
     "vaultforge-code-audited-git-trust-remotes-branch-state-dirty-state-and-backup-ex-20260501-035601": {
       "action": "Audited Git trust, remotes, branch state, dirty state, and backup exposure for seven target repositories #git #backup #validation",
       "category": "system",
@@ -255,6 +985,76 @@
       "source": "vaultforge-code",
       "timestamp": "2026-05-01T03:56:01+00:00",
       "xp_awarded": 50
+    },
+    "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-144425": {
+      "action": "Build first local MCP server with only `status` and `list_sources` under `servers\\active\\mcp-setup-server` #mcp #runtime 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-144425",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:25+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-144907": {
+      "action": "Build first local MCP server with only `status` and `list_sources` under `servers\\active\\mcp-setup-server` #mcp #runtime 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-144907",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:49:07+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-150030": {
+      "action": "Build first local MCP server with only `status` and `list_sources` under `servers\\active\\mcp-setup-server` #mcp #runtime 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-150030",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:30+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-150052": {
+      "action": "Build first local MCP server with only `status` and `list_sources` under `servers\\active\\mcp-setup-server` #mcp #runtime 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-150052",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:52+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-150734": {
+      "action": "Build first local MCP server with only `status` and `list_sources` under `servers\\active\\mcp-setup-server` #mcp #runtime 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-150734",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:34+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-150836": {
+      "action": "Build first local MCP server with only `status` and `list_sources` under `servers\\active\\mcp-setup-server` #mcp #runtime 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-150836",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:36+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-151559": {
+      "action": "Build first local MCP server with only `status` and `list_sources` under `servers\\active\\mcp-setup-server` #mcp #runtime 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-build-first-local-mcp-server-with-only-status-and-list_sources-u-20260510-151559",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:59+00:00",
+      "xp_awarded": 42
     },
     "vaultforge-code-captured-post-safe-directory-git-status-snapshots-for-vaultforge-20260501-035530": {
       "action": "Captured post-safe-directory Git status snapshots for VaultForge, vaultforge-xp4l, .4, XP4Life, and the ecosystem control plane #git #vaultforge #docs",
@@ -295,6 +1095,156 @@
       "source": "vaultforge-code",
       "timestamp": "2026-04-30T19:04:38+00:00",
       "xp_awarded": 50
+    },
+    "vaultforge-code-changelog-20260510-144405": {
+      "action": "CHANGELOG",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-changelog-20260510-144405",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:05+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-changelog-20260510-144846": {
+      "action": "CHANGELOG",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-changelog-20260510-144846",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:46+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-changelog-20260510-150007": {
+      "action": "CHANGELOG",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-changelog-20260510-150007",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:07+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-changelog-20260510-150328": {
+      "action": "CHANGELOG",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-changelog-20260510-150328",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:03:28+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-changelog-20260510-150709": {
+      "action": "CHANGELOG",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-changelog-20260510-150709",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:09+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-changelog-20260510-150810": {
+      "action": "CHANGELOG",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-changelog-20260510-150810",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:10+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-changelog-20260510-151533": {
+      "action": "CHANGELOG",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-changelog-20260510-151533",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:33+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-144405": {
+      "action": "ChatGPT Developer Mode Test Packet",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-144405",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:05+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-150007": {
+      "action": "ChatGPT Developer Mode Test Packet",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-150007",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:07+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-150028": {
+      "action": "ChatGPT Developer Mode Test Packet",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-150028",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:28+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-150329": {
+      "action": "ChatGPT Developer Mode Test Packet",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-150329",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:03:29+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-150409": {
+      "action": "ChatGPT Developer Mode Test Packet",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-150409",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:04:09+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-150951": {
+      "action": "ChatGPT Developer Mode Test Packet",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-150951",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:09:51+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-151011": {
+      "action": "ChatGPT Developer Mode Test Packet",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-151011",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:10:11+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-151031": {
+      "action": "ChatGPT Developer Mode Test Packet",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-chatgpt-developer-mode-test-packet-20260510-151031",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:10:31+00:00",
+      "xp_awarded": 42
     },
     "vaultforge-code-checked-node---version-v24.15.0-20260430-190529": {
       "action": "Checked node --version: v24.15.0.",
@@ -406,6 +1356,76 @@
       "timestamp": "2026-05-01T03:55:44+00:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-144411": {
+      "action": "Complete rotated-key OpenAI Responses API smoke test with `gpt-5.5`, exact expected output, and paid-use flag reset to blocked #mcp #secrets #api #testing \ud83c\udd94 mcp-openai-smoke-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-144411",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:11+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-144852": {
+      "action": "Complete rotated-key OpenAI Responses API smoke test with `gpt-5.5`, exact expected output, and paid-use flag reset to blocked #mcp #secrets #api #testing \ud83c\udd94 mcp-openai-smoke-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-144852",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:52+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-150013": {
+      "action": "Complete rotated-key OpenAI Responses API smoke test with `gpt-5.5`, exact expected output, and paid-use flag reset to blocked #mcp #secrets #api #testing \ud83c\udd94 mcp-openai-smoke-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-150013",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:13+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-150035": {
+      "action": "Complete rotated-key OpenAI Responses API smoke test with `gpt-5.5`, exact expected output, and paid-use flag reset to blocked #mcp #secrets #api #testing \ud83c\udd94 mcp-openai-smoke-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-150035",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:35+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-150716": {
+      "action": "Complete rotated-key OpenAI Responses API smoke test with `gpt-5.5`, exact expected output, and paid-use flag reset to blocked #mcp #secrets #api #testing \ud83c\udd94 mcp-openai-smoke-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-150716",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:16+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-150817": {
+      "action": "Complete rotated-key OpenAI Responses API smoke test with `gpt-5.5`, exact expected output, and paid-use flag reset to blocked #mcp #secrets #api #testing \ud83c\udd94 mcp-openai-smoke-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-150817",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:17+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-151540": {
+      "action": "Complete rotated-key OpenAI Responses API smoke test with `gpt-5.5`, exact expected output, and paid-use flag reset to blocked #mcp #secrets #api #testing \ud83c\udd94 mcp-openai-smoke-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-complete-rotated-key-openai-responses-api-smoke-test-with-gpt-5.-20260510-151540",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:40+00:00",
+      "xp_awarded": 42
+    },
     "vaultforge-code-completed-duplicate-analysis-only-with-no-moves-no-deletes-and-n-20260430-190436": {
       "action": "Completed duplicate analysis only, with no moves, no deletes, and no path refactors.",
       "category": "maintenance",
@@ -414,6 +1434,96 @@
       "event_type": "checklist_item_completed",
       "source": "vaultforge-code",
       "timestamp": "2026-04-30T19:04:36+00:00",
+      "xp_awarded": 50
+    },
+    "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-144418": {
+      "action": "Confirm current `GATE.md` decisions in `WORKFLOW_B_MCP_PLAN.md` and `docs\\dcs\\DCS_HANDOFF_PACKET.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-144418",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:18+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-144900": {
+      "action": "Confirm current `GATE.md` decisions in `WORKFLOW_B_MCP_PLAN.md` and `docs\\dcs\\DCS_HANDOFF_PACKET.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-144900",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:49:00+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-150023": {
+      "action": "Confirm current `GATE.md` decisions in `WORKFLOW_B_MCP_PLAN.md` and `docs\\dcs\\DCS_HANDOFF_PACKET.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-150023",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:23+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-150045": {
+      "action": "Confirm current `GATE.md` decisions in `WORKFLOW_B_MCP_PLAN.md` and `docs\\dcs\\DCS_HANDOFF_PACKET.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-150045",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:45+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-150727": {
+      "action": "Confirm current `GATE.md` decisions in `WORKFLOW_B_MCP_PLAN.md` and `docs\\dcs\\DCS_HANDOFF_PACKET.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-150727",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:27+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-150829": {
+      "action": "Confirm current `GATE.md` decisions in `WORKFLOW_B_MCP_PLAN.md` and `docs\\dcs\\DCS_HANDOFF_PACKET.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-150829",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:29+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-151552": {
+      "action": "Confirm current `GATE.md` decisions in `WORKFLOW_B_MCP_PLAN.md` and `docs\\dcs\\DCS_HANDOFF_PACKET.md` #mcp #gates 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-confirm-current-gate.md-decisions-in-workflow_b_mcp_plan.md-and--20260510-151552",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:52+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-confirm-mcp-gate-013-is-set-to-1-while-local-paid-api-execution--20260510-150825": {
+      "action": "Confirm `MCP-GATE-013` is set to `1` while local paid API execution remains blocked by `OPENAI_API_PAID_USAGE_APPROVED=0` #mcp #secrets #api #gates \ud83c\udd94 mcp-paid-api-gate013-open-local-blocked 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-confirm-mcp-gate-013-is-set-to-1-while-local-paid-api-execution--20260510-150825",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:25+00:00",
+      "xp_awarded": 50
+    },
+    "vaultforge-code-confirm-mcp-gate-013-is-set-to-1-while-verifier-still-reports-lo-20260510-151548": {
+      "action": "Confirm `MCP-GATE-013` is set to `1` while verifier still reports local paid API execution blocked by `OPENAI_API_PAID_USAGE_APPROVED=0` #mcp #secrets #api #gates \ud83c\udd94 mcp-paid-api-gate013-open-local-blocked 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-confirm-mcp-gate-013-is-set-to-1-while-verifier-still-reports-lo-20260510-151548",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:48+00:00",
       "xp_awarded": 50
     },
     "vaultforge-code-confirmed-canonical-already-had-configs-batch_natgeo.conf-20260430-190505": {
@@ -816,6 +1926,46 @@
       "timestamp": "2026-05-10T17:44:03+10:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-dcs-handoff-packet-mcp-setup-20260510-144405": {
+      "action": "DCS Handoff Packet: MCP Setup",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-dcs-handoff-packet-mcp-setup-20260510-144405",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:05+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-dcs-handoff-packet-mcp-setup-20260510-144846": {
+      "action": "DCS Handoff Packet: MCP Setup",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-dcs-handoff-packet-mcp-setup-20260510-144846",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:46+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-dcs-handoff-packet-mcp-setup-20260510-150007": {
+      "action": "DCS Handoff Packet: MCP Setup",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-dcs-handoff-packet-mcp-setup-20260510-150007",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:07+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-dcs-handoff-packet-mcp-setup-20260510-150328": {
+      "action": "DCS Handoff Packet: MCP Setup",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-dcs-handoff-packet-mcp-setup-20260510-150328",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:03:28+00:00",
+      "xp_awarded": 44
+    },
     "vaultforge-code-dcs-merge-all-20260510-174403": {
       "action": "implemented and ran dated DCS merge-all bundle",
       "category": "documentation",
@@ -846,6 +1996,186 @@
       "timestamp": "2026-05-10T17:41:48+10:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-decide-whether-to-add-search-and-fetch-after-status-and-list_sou-20260510-150029": {
+      "action": "\ud83d\udd3d Decide whether to add `search` and `fetch` after `status` and `list_sources` are verified #mcp #planning \ud83c\udd94 mcp-search-fetch-decision \u26d4 mcp-handoff-runtime-update 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-add-search-and-fetch-after-status-and-list_sou-20260510-150029",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:29+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-decide-whether-to-add-search-and-fetch-after-status-and-list_sou-20260510-150710": {
+      "action": "\ud83d\udd3d Decide whether to add `search` and `fetch` after `status` and `list_sources` are verified #mcp #planning \ud83c\udd94 mcp-search-fetch-decision \u26d4 mcp-handoff-runtime-update 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-add-search-and-fetch-after-status-and-list_sou-20260510-150710",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:10+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-decide-whether-to-add-search-and-fetch-after-status-and-list_sou-20260510-150811": {
+      "action": "\ud83d\udd3d Decide whether to add `search` and `fetch` after `status` and `list_sources` are verified #mcp #planning \ud83c\udd94 mcp-search-fetch-decision \u26d4 mcp-handoff-runtime-update 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-add-search-and-fetch-after-status-and-list_sou-20260510-150811",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:11+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-decide-whether-to-add-search-and-fetch-after-status-and-list_sou-20260510-151534": {
+      "action": "\ud83d\udd3d Decide whether to add `search` and `fetch` after `status` and `list_sources` are verified #mcp #planning \ud83c\udd94 mcp-search-fetch-decision \u26d4 mcp-handoff-runtime-update 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-add-search-and-fetch-after-status-and-list_sou-20260510-151534",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:34+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-144408": {
+      "action": "\ud83d\udd3d Decide whether to permit the first paid OpenAI API smoke call after local secret setup verifies safe #mcp #secrets #api \ud83c\udd94 mcp-paid-api-smoke-decision \u26d4 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-144408",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:08+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-144849": {
+      "action": "\ud83d\udd3d Decide whether to permit the first paid OpenAI API smoke call after local secret setup verifies safe #mcp #secrets #api \ud83c\udd94 mcp-paid-api-smoke-decision \u26d4 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-144849",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:49+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-150010": {
+      "action": "\ud83d\udd3d Decide whether to permit the first paid OpenAI API smoke call after local secret setup verifies safe #mcp #secrets #api \ud83c\udd94 mcp-paid-api-smoke-decision \u26d4 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-150010",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:10+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-150032": {
+      "action": "\ud83d\udd3d Decide whether to permit the first paid OpenAI API smoke call after local secret setup verifies safe #mcp #secrets #api \ud83c\udd94 mcp-paid-api-smoke-decision \u26d4 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-150032",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:32+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-150713": {
+      "action": "\ud83d\udd3d Decide whether to permit the first paid OpenAI API smoke call after local secret setup verifies safe #mcp #secrets #api \ud83c\udd94 mcp-paid-api-smoke-decision \u26d4 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-150713",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:13+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-150814": {
+      "action": "\ud83d\udd3d Decide whether to permit the first paid OpenAI API smoke call after local secret setup verifies safe #mcp #secrets #api \ud83c\udd94 mcp-paid-api-smoke-decision \u26d4 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-150814",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:14+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-151537": {
+      "action": "\ud83d\udd3d Decide whether to permit the first paid OpenAI API smoke call after local secret setup verifies safe #mcp #secrets #api \ud83c\udd94 mcp-paid-api-smoke-decision \u26d4 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-permit-the-first-paid-openai-api-smoke-call-af-20260510-151537",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:37+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-144406": {
+      "action": "\ud83d\udd3d Decide whether to start an HTTPS tunnel after local-only checks and safety gates are reviewed #mcp #network \ud83c\udd94 mcp-tunnel-decision \u26d4 mcp-search-fetch-decision 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-144406",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:06+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-144847": {
+      "action": "\ud83d\udd3d Decide whether to start an HTTPS tunnel after local-only checks and safety gates are reviewed #mcp #network \ud83c\udd94 mcp-tunnel-decision \u26d4 mcp-search-fetch-decision 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-144847",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:47+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-150008": {
+      "action": "\ud83d\udd3d Decide whether to start an HTTPS tunnel after local-only checks and safety gates are reviewed #mcp #network \ud83c\udd94 mcp-tunnel-decision \u26d4 mcp-search-fetch-decision 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-150008",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:08+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-150030": {
+      "action": "\ud83d\udd3d Decide whether to start an HTTPS tunnel after local-only checks and safety gates are reviewed #mcp #network \ud83c\udd94 mcp-tunnel-decision \u26d4 mcp-search-fetch-decision 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-150030",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:30+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-150711": {
+      "action": "\ud83d\udd3d Decide whether to start an HTTPS tunnel after local-only checks and safety gates are reviewed #mcp #network \ud83c\udd94 mcp-tunnel-decision \u26d4 mcp-search-fetch-decision 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-150711",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:11+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-150812": {
+      "action": "\ud83d\udd3d Decide whether to start an HTTPS tunnel after local-only checks and safety gates are reviewed #mcp #network \ud83c\udd94 mcp-tunnel-decision \u26d4 mcp-search-fetch-decision 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-150812",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:12+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-151535": {
+      "action": "\ud83d\udd3d Decide whether to start an HTTPS tunnel after local-only checks and safety gates are reviewed #mcp #network \ud83c\udd94 mcp-tunnel-decision \u26d4 mcp-search-fetch-decision 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-decide-whether-to-start-an-https-tunnel-after-local-only-checks--20260510-151535",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:35+00:00",
+      "xp_awarded": 42
+    },
     "vaultforge-code-did-not-copy-vault-preset_channel-videos.txt-because-useful-cont-20260430-190510": {
       "action": "Did not copy vault PRESET_channel-videos.txt because useful content was already preserved from the tools copy.",
       "category": "maintenance",
@@ -865,6 +2195,36 @@
       "source": "vaultforge-code",
       "timestamp": "2026-04-30T19:05:09+00:00",
       "xp_awarded": 50
+    },
+    "vaultforge-code-gate-20260510-145146": {
+      "action": "GATE",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-gate-20260510-145146",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:51:46+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-gate-20260510-150709": {
+      "action": "GATE",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-gate-20260510-150709",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:09+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-gate-20260510-150730": {
+      "action": "GATE",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-gate-20260510-150730",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:30+00:00",
+      "xp_awarded": 44
     },
     "vaultforge-code-held-198-fractal-dashboard-cleanup-and-possible-rename-for-later-20260430-190455": {
       "action": "Held 198-fractal-dashboard cleanup and possible rename for later review.",
@@ -936,6 +2296,56 @@
       "timestamp": "2026-04-30T19:04:53+00:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-implement-and-verify-read-only-search-and-fetch-over-approved-do-20260510-150018": {
+      "action": "Implement and verify read-only `search` and `fetch` over approved docs after `MCP-GATE-001` was set to `1` #mcp #runtime #testing \ud83c\udd94 mcp-search-fetch-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-implement-and-verify-read-only-search-and-fetch-over-approved-do-20260510-150018",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:18+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-implement-and-verify-read-only-search-and-fetch-over-approved-do-20260510-150040": {
+      "action": "Implement and verify read-only `search` and `fetch` over approved docs after `MCP-GATE-001` was set to `1` #mcp #runtime #testing \ud83c\udd94 mcp-search-fetch-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-implement-and-verify-read-only-search-and-fetch-over-approved-do-20260510-150040",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:40+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-implement-and-verify-read-only-search-and-fetch-over-approved-do-20260510-150721": {
+      "action": "Implement and verify read-only `search` and `fetch` over approved docs after `MCP-GATE-001` was set to `1` #mcp #runtime #testing \ud83c\udd94 mcp-search-fetch-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-implement-and-verify-read-only-search-and-fetch-over-approved-do-20260510-150721",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:21+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-implement-and-verify-read-only-search-and-fetch-over-approved-do-20260510-150822": {
+      "action": "Implement and verify read-only `search` and `fetch` over approved docs after `MCP-GATE-001` was set to `1` #mcp #runtime #testing \ud83c\udd94 mcp-search-fetch-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-implement-and-verify-read-only-search-and-fetch-over-approved-do-20260510-150822",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:22+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-implement-and-verify-read-only-search-and-fetch-over-approved-do-20260510-151545": {
+      "action": "Implement and verify read-only `search` and `fetch` over approved docs after `MCP-GATE-001` was set to `1` #mcp #runtime #testing \ud83c\udd94 mcp-search-fetch-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-implement-and-verify-read-only-search-and-fetch-over-approved-do-20260510-151545",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:45+00:00",
+      "xp_awarded": 42
+    },
     "vaultforge-code-implemented---target-all-in-stub.py-so-the-courier-can-scan-f-fo-20260510-075545": {
       "action": "Implemented `--target-all` in `stub.py` so the courier can scan `F:\\` for `.4\\inbox\\events` targets while skipping deep folders like `.obsidian`, `.venv`, and `node_modules`.",
       "category": "coding",
@@ -944,6 +2354,16 @@
       "event_type": "task_completed",
       "source": "vaultforge-code",
       "timestamp": "2026-05-10T07:55:45+00:00",
+      "xp_awarded": 50
+    },
+    "vaultforge-code-import-createserver-from-node-http-20260510-145547": {
+      "action": "import { createServer } from \"node:http\";",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-import-createserver-from-node-http-20260510-145547",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:55:47+00:00",
       "xp_awarded": 50
     },
     "vaultforge-code-installed-requirements.txt-pass-20260430-190551": {
@@ -1336,6 +2756,116 @@
       "timestamp": "2026-05-11T00:13:30+10:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-mcp-local-testing-20260510-144405": {
+      "action": "MCP Local Testing",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-mcp-local-testing-20260510-144405",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:05+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-mcp-local-testing-20260510-144846": {
+      "action": "MCP Local Testing",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-mcp-local-testing-20260510-144846",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:46+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-mcp-local-testing-20260510-150008": {
+      "action": "MCP Local Testing",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-mcp-local-testing-20260510-150008",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:08+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-mcp-local-testing-20260510-150329": {
+      "action": "MCP Local Testing",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-mcp-local-testing-20260510-150329",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:03:29+00:00",
+      "xp_awarded": 44
+    },
+    "vaultforge-code-mcp-security-gates-20260510-150710": {
+      "action": "MCP Security Gates",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-mcp-security-gates-20260510-150710",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:10+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-mcp-security-gates-20260510-150810": {
+      "action": "MCP Security Gates",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-mcp-security-gates-20260510-150810",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:10+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-mcp-security-gates-20260510-151112": {
+      "action": "MCP Security Gates",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-mcp-security-gates-20260510-151112",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:11:12+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-mcp-security-gates-20260510-151152": {
+      "action": "MCP Security Gates",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-mcp-security-gates-20260510-151152",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:11:52+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-mcp-security-gates-20260510-151212": {
+      "action": "MCP Security Gates",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-mcp-security-gates-20260510-151212",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:12:12+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-mcp-security-gates-20260510-151533": {
+      "action": "MCP Security Gates",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-mcp-security-gates-20260510-151533",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:33+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-mcp-setup-server-20260510-150008": {
+      "action": "MCP Setup Server",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-mcp-setup-server-20260510-150008",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:08+00:00",
+      "xp_awarded": 50
+    },
     "vaultforge-code-mcp-xp4l-watcher-gate003-sync-20260511-001320": {
       "action": "updated XP4Life MCP quest watcher for Gate 003 tasks",
       "category": "coding",
@@ -1516,6 +3046,76 @@
       "timestamp": "2026-05-01T03:55:42+00:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-144423": {
+      "action": "Record exact local health, `/mcp`, and tool-call results in `docs\\reference\\LOCAL_TESTING.md` #mcp #docs \ud83c\udd94 mcp-record-local-results 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-144423",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:23+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-144905": {
+      "action": "Record exact local health, `/mcp`, and tool-call results in `docs\\reference\\LOCAL_TESTING.md` #mcp #docs \ud83c\udd94 mcp-record-local-results 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-144905",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:49:05+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-150028": {
+      "action": "Record exact local health, `/mcp`, and tool-call results in `docs\\reference\\LOCAL_TESTING.md` #mcp #docs \ud83c\udd94 mcp-record-local-results 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-150028",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:28+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-150050": {
+      "action": "Record exact local health, `/mcp`, and tool-call results in `docs\\reference\\LOCAL_TESTING.md` #mcp #docs \ud83c\udd94 mcp-record-local-results 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-150050",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:50+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-150732": {
+      "action": "Record exact local health, `/mcp`, and tool-call results in `docs\\reference\\LOCAL_TESTING.md` #mcp #docs \ud83c\udd94 mcp-record-local-results 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-150732",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:32+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-150834": {
+      "action": "Record exact local health, `/mcp`, and tool-call results in `docs\\reference\\LOCAL_TESTING.md` #mcp #docs \ud83c\udd94 mcp-record-local-results 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-150834",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:34+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-151557": {
+      "action": "Record exact local health, `/mcp`, and tool-call results in `docs\\reference\\LOCAL_TESTING.md` #mcp #docs \ud83c\udd94 mcp-record-local-results 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-record-exact-local-health-mcp-and-tool-call-results-in-docs-refe-20260510-151557",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:57+00:00",
+      "xp_awarded": 42
+    },
     "vaultforge-code-removed-generated-__pycache__-created-by-py_compile-because-it-d-20260430-190540": {
       "action": "Removed generated __pycache__ created by py_compile because it did not exist before the smoke test.",
       "category": "maintenance",
@@ -1555,6 +3155,76 @@
       "source": "vaultforge-code",
       "timestamp": "2026-05-01T03:55:40+00:00",
       "xp_awarded": 50
+    },
+    "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-144412": {
+      "action": "Rerun Gate 009 live connector smoke through a fresh temporary tunnel and verify health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #testing \ud83c\udd94 mcp-gate009-live-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-144412",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:12+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-144853": {
+      "action": "Rerun Gate 009 live connector smoke through a fresh temporary tunnel and verify health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #testing \ud83c\udd94 mcp-gate009-live-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-144853",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:53+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-150014": {
+      "action": "Rerun Gate 009 live connector smoke through a fresh temporary tunnel and verify health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #testing \ud83c\udd94 mcp-gate009-live-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-150014",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:14+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-150036": {
+      "action": "Rerun Gate 009 live connector smoke through a fresh temporary tunnel and verify health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #testing \ud83c\udd94 mcp-gate009-live-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-150036",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:36+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-150717": {
+      "action": "Rerun Gate 009 live connector smoke through a fresh temporary tunnel and verify health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #testing \ud83c\udd94 mcp-gate009-live-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-150717",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:17+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-150818": {
+      "action": "Rerun Gate 009 live connector smoke through a fresh temporary tunnel and verify health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #testing \ud83c\udd94 mcp-gate009-live-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-150818",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:18+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-151541": {
+      "action": "Rerun Gate 009 live connector smoke through a fresh temporary tunnel and verify health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #testing \ud83c\udd94 mcp-gate009-live-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rerun-gate-009-live-connector-smoke-through-a-fresh-temporary-tu-20260510-151541",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:41+00:00",
+      "xp_awarded": 42
     },
     "vaultforge-code-retargeted-f-.4-stub.py-away-from-direct-xp4l_consumer.py-handof-20260501-035549": {
       "action": "Retargeted F:\\.4\\stub.py away from direct xp4l_consumer.py handoff to python -m vaultforge_xp4l through the adapter route #dot4 #xp4l #coding",
@@ -1616,6 +3286,146 @@
       "timestamp": "2026-04-30T19:06:00+00:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-144407": {
+      "action": "\ud83d\udd3a Retry a healthy temporary HTTPS tunnel before ChatGPT Developer Mode connection #mcp #network #testing \ud83c\udd94 mcp-gate003-tunnel-retry \u26d4 mcp-gate009-live-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-144407",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:07+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-144848": {
+      "action": "\ud83d\udd3a Retry a healthy temporary HTTPS tunnel before ChatGPT Developer Mode connection #mcp #network #testing \ud83c\udd94 mcp-gate003-tunnel-retry \u26d4 mcp-gate009-live-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-144848",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:48+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-150009": {
+      "action": "\ud83d\udd3a Retry a healthy temporary HTTPS tunnel before ChatGPT Developer Mode connection #mcp #network #testing \ud83c\udd94 mcp-gate003-tunnel-retry \u26d4 mcp-gate009-live-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-150009",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:09+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-150031": {
+      "action": "\ud83d\udd3a Retry a healthy temporary HTTPS tunnel before ChatGPT Developer Mode connection #mcp #network #testing \ud83c\udd94 mcp-gate003-tunnel-retry \u26d4 mcp-gate009-live-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-150031",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:31+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-150712": {
+      "action": "\ud83d\udd3a Retry a healthy temporary HTTPS tunnel before ChatGPT Developer Mode connection #mcp #network #testing \ud83c\udd94 mcp-gate003-tunnel-retry \u26d4 mcp-gate009-live-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-150712",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:12+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-150813": {
+      "action": "\ud83d\udd3a Retry a healthy temporary HTTPS tunnel before ChatGPT Developer Mode connection #mcp #network #testing \ud83c\udd94 mcp-gate003-tunnel-retry \u26d4 mcp-gate009-live-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-150813",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:13+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-151536": {
+      "action": "\ud83d\udd3a Retry a healthy temporary HTTPS tunnel before ChatGPT Developer Mode connection #mcp #network #testing \ud83c\udd94 mcp-gate003-tunnel-retry \u26d4 mcp-gate009-live-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-retry-a-healthy-temporary-https-tunnel-before-chatgpt-developer--20260510-151536",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:36+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-144405": {
+      "action": "\ud83d\udd3a Review `GATE.md` and set `decision_0_or_1` for the next approved MCP Workflow B-style run #mcp #gates \ud83c\udd94 mcp-gate-review 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-144405",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:05+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-144846": {
+      "action": "\ud83d\udd3a Review `GATE.md` and set `decision_0_or_1` for the next approved MCP Workflow B-style run #mcp #gates \ud83c\udd94 mcp-gate-review 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-144846",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:46+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-150007": {
+      "action": "\ud83d\udd3a Review `GATE.md` and set `decision_0_or_1` for the next approved MCP Workflow B-style run #mcp #gates \ud83c\udd94 mcp-gate-review 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-150007",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:07+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-150028": {
+      "action": "\ud83d\udd3a Review `GATE.md` and set `decision_0_or_1` for the next approved MCP Workflow B-style run #mcp #gates \ud83c\udd94 mcp-gate-review 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-150028",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:28+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-150709": {
+      "action": "\ud83d\udd3a Review `GATE.md` and set `decision_0_or_1` for the next approved MCP Workflow B-style run #mcp #gates \ud83c\udd94 mcp-gate-review 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-150709",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:09+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-150810": {
+      "action": "\ud83d\udd3a Review `GATE.md` and set `decision_0_or_1` for the next approved MCP Workflow B-style run #mcp #gates \ud83c\udd94 mcp-gate-review 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-150810",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:10+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-151533": {
+      "action": "\ud83d\udd3a Review `GATE.md` and set `decision_0_or_1` for the next approved MCP Workflow B-style run #mcp #gates \ud83c\udd94 mcp-gate-review 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-review-gate.md-and-set-decision_0_or_1-for-the-next-approved-mcp-20260510-151533",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:33+00:00",
+      "xp_awarded": 42
+    },
     "vaultforge-code-reviewed-f-tools-yt_dlp_downloader-configs-batch_natgeo.conf-20260430-190501": {
       "action": "Reviewed F:\\tools\\yt_dlp_downloader\\configs\\batch_NatGeo.conf.",
       "category": "maintenance",
@@ -1676,6 +3486,336 @@
       "timestamp": "2026-04-30T19:06:03+00:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-144409": {
+      "action": "\ud83d\udd3a Rotate the exposed OpenAI API key before any retry #mcp #secrets #api \ud83c\udd94 mcp-openai-key-rotate 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-144409",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:09+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-144850": {
+      "action": "\ud83d\udd3a Rotate the exposed OpenAI API key before any retry #mcp #secrets #api \ud83c\udd94 mcp-openai-key-rotate 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-144850",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:50+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-150011": {
+      "action": "\ud83d\udd3a Rotate the exposed OpenAI API key before any retry #mcp #secrets #api \ud83c\udd94 mcp-openai-key-rotate 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-150011",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:11+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-150033": {
+      "action": "\ud83d\udd3a Rotate the exposed OpenAI API key before any retry #mcp #secrets #api \ud83c\udd94 mcp-openai-key-rotate 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-150033",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:33+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-150714": {
+      "action": "\ud83d\udd3a Rotate the exposed OpenAI API key before any retry #mcp #secrets #api \ud83c\udd94 mcp-openai-key-rotate 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-150714",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:14+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-150815": {
+      "action": "\ud83d\udd3a Rotate the exposed OpenAI API key before any retry #mcp #secrets #api \ud83c\udd94 mcp-openai-key-rotate 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-150815",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:15+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-151538": {
+      "action": "\ud83d\udd3a Rotate the exposed OpenAI API key before any retry #mcp #secrets #api \ud83c\udd94 mcp-openai-key-rotate 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-rotate-the-exposed-openai-api-key-before-any-retry-mcp-secrets-a-20260510-151538",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:38+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-run-workflow---cycle-2---budget-time-15-local-health-and-mcp-too-20260510-144856": {
+      "action": "Run `workflow --cycle 2 --budget-time 15`; local health and `/mcp` tool calls passed, then stopped at the manual ChatGPT Developer Mode boundary #mcp #workflow #testing \ud83c\udd94 mcp-workflow-cycle2-budget15 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-run-workflow---cycle-2---budget-time-15-local-health-and-mcp-too-20260510-144856",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:56+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-run-workflow---cycle-2---budget-time-15-local-health-and-mcp-too-20260510-150017": {
+      "action": "Run `workflow --cycle 2 --budget-time 15`; local health and `/mcp` tool calls passed, then stopped at the manual ChatGPT Developer Mode boundary #mcp #workflow #testing \ud83c\udd94 mcp-workflow-cycle2-budget15 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-run-workflow---cycle-2---budget-time-15-local-health-and-mcp-too-20260510-150017",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:17+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-run-workflow---cycle-2---budget-time-15-local-health-and-mcp-too-20260510-150039": {
+      "action": "Run `workflow --cycle 2 --budget-time 15`; local health and `/mcp` tool calls passed, then stopped at the manual ChatGPT Developer Mode boundary #mcp #workflow #testing \ud83c\udd94 mcp-workflow-cycle2-budget15 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-run-workflow---cycle-2---budget-time-15-local-health-and-mcp-too-20260510-150039",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:39+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-run-workflow---cycle-2---budget-time-15-local-health-and-mcp-too-20260510-150720": {
+      "action": "Run `workflow --cycle 2 --budget-time 15`; local health and `/mcp` tool calls passed, then stopped at the manual ChatGPT Developer Mode boundary #mcp #workflow #testing \ud83c\udd94 mcp-workflow-cycle2-budget15 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-run-workflow---cycle-2---budget-time-15-local-health-and-mcp-too-20260510-150720",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:20+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-run-workflow---cycle-2---budget-time-15-local-health-and-mcp-too-20260510-150821": {
+      "action": "Run `workflow --cycle 2 --budget-time 15`; local health and `/mcp` tool calls passed, then stopped at the manual ChatGPT Developer Mode boundary #mcp #workflow #testing \ud83c\udd94 mcp-workflow-cycle2-budget15 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-run-workflow---cycle-2---budget-time-15-local-health-and-mcp-too-20260510-150821",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:21+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-run-workflow---cycle-2---budget-time-15-local-health-and-mcp-too-20260510-151544": {
+      "action": "Run `workflow --cycle 2 --budget-time 15`; local health and `/mcp` tool calls passed, then stopped at the manual ChatGPT Developer Mode boundary #mcp #workflow #testing \ud83c\udd94 mcp-workflow-cycle2-budget15 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-run-workflow---cycle-2---budget-time-15-local-health-and-mcp-too-20260510-151544",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:44+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-secret-and-paid-api-setup-20260510-150709": {
+      "action": "Secret And Paid API Setup",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-secret-and-paid-api-setup-20260510-150709",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:09+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-secret-and-paid-api-setup-20260510-150810": {
+      "action": "Secret And Paid API Setup",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-secret-and-paid-api-setup-20260510-150810",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:10+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-secret-and-paid-api-setup-20260510-151232": {
+      "action": "Secret And Paid API Setup",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-secret-and-paid-api-setup-20260510-151232",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:12:32+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-secret-and-paid-api-setup-20260510-151252": {
+      "action": "Secret And Paid API Setup",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-secret-and-paid-api-setup-20260510-151252",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:12:52+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-secret-and-paid-api-setup-20260510-151312": {
+      "action": "Secret And Paid API Setup",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-secret-and-paid-api-setup-20260510-151312",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:13:12+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-secret-and-paid-api-setup-20260510-151533": {
+      "action": "Secret And Paid API Setup",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-secret-and-paid-api-setup-20260510-151533",
+      "event_type": "file_summary_logged",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:33+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-144417": {
+      "action": "Set up local-only OpenAI API `.env` handling, tracked `.env.example`, and a safe presence verifier that does not print secrets #mcp #secrets #api \ud83c\udd94 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-144417",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:17+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-144859": {
+      "action": "Set up local-only OpenAI API `.env` handling, tracked `.env.example`, and a safe presence verifier that does not print secrets #mcp #secrets #api \ud83c\udd94 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-144859",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:59+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-150022": {
+      "action": "Set up local-only OpenAI API `.env` handling, tracked `.env.example`, and a safe presence verifier that does not print secrets #mcp #secrets #api \ud83c\udd94 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-150022",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:22+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-150044": {
+      "action": "Set up local-only OpenAI API `.env` handling, tracked `.env.example`, and a safe presence verifier that does not print secrets #mcp #secrets #api \ud83c\udd94 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-150044",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:44+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-150726": {
+      "action": "Set up local-only OpenAI API `.env` handling, tracked `.env.example`, and a safe presence verifier that does not print secrets #mcp #secrets #api \ud83c\udd94 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-150726",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:26+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-150828": {
+      "action": "Set up local-only OpenAI API `.env` handling, tracked `.env.example`, and a safe presence verifier that does not print secrets #mcp #secrets #api \ud83c\udd94 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-150828",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:28+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-151551": {
+      "action": "Set up local-only OpenAI API `.env` handling, tracked `.env.example`, and a safe presence verifier that does not print secrets #mcp #secrets #api \ud83c\udd94 mcp-secret-setup-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-set-up-local-only-openai-api-.env-handling-tracked-.env.example--20260510-151551",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:51+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-144419": {
+      "action": "Start a temporary no-auth HTTPS tunnel with localtunnel and verify public health, initialize, `tools/list`, and `status` calls #mcp #network #testing \ud83c\udd94 mcp-tunnel-public-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-144419",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:19+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-144901": {
+      "action": "Start a temporary no-auth HTTPS tunnel with localtunnel and verify public health, initialize, `tools/list`, and `status` calls #mcp #network #testing \ud83c\udd94 mcp-tunnel-public-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-144901",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:49:01+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-150024": {
+      "action": "Start a temporary no-auth HTTPS tunnel with localtunnel and verify public health, initialize, `tools/list`, and `status` calls #mcp #network #testing \ud83c\udd94 mcp-tunnel-public-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-150024",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:24+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-150046": {
+      "action": "Start a temporary no-auth HTTPS tunnel with localtunnel and verify public health, initialize, `tools/list`, and `status` calls #mcp #network #testing \ud83c\udd94 mcp-tunnel-public-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-150046",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:46+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-150728": {
+      "action": "Start a temporary no-auth HTTPS tunnel with localtunnel and verify public health, initialize, `tools/list`, and `status` calls #mcp #network #testing \ud83c\udd94 mcp-tunnel-public-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-150728",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:28+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-150830": {
+      "action": "Start a temporary no-auth HTTPS tunnel with localtunnel and verify public health, initialize, `tools/list`, and `status` calls #mcp #network #testing \ud83c\udd94 mcp-tunnel-public-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-150830",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:30+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-151553": {
+      "action": "Start a temporary no-auth HTTPS tunnel with localtunnel and verify public health, initialize, `tools/list`, and `status` calls #mcp #network #testing \ud83c\udd94 mcp-tunnel-public-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-start-a-temporary-no-auth-https-tunnel-with-localtunnel-and-veri-20260510-151553",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:53+00:00",
+      "xp_awarded": 42
+    },
     "vaultforge-code-synced-control-plane-path-inventory-and-ecosystem-docs-to-the-co-20260501-035545": {
       "action": "Synced control-plane path inventory and ecosystem docs to the confirmed F:\\ runtime chain without broad generated/snapshot rewrites #vaultforge #docs #validation",
       "category": "system",
@@ -1705,6 +3845,76 @@
       "source": "vaultforge-code",
       "timestamp": "2026-05-10T17:59:00+10:00",
       "xp_awarded": 50
+    },
+    "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-144424": {
+      "action": "Update `docs\\dcs\\DCS_HANDOFF_PACKET.md` after local runtime verification #mcp #dcs \ud83c\udd94 mcp-handoff-runtime-update 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-144424",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:24+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-144906": {
+      "action": "Update `docs\\dcs\\DCS_HANDOFF_PACKET.md` after local runtime verification #mcp #dcs \ud83c\udd94 mcp-handoff-runtime-update 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-144906",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:49:06+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-150029": {
+      "action": "Update `docs\\dcs\\DCS_HANDOFF_PACKET.md` after local runtime verification #mcp #dcs \ud83c\udd94 mcp-handoff-runtime-update 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-150029",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:29+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-150051": {
+      "action": "Update `docs\\dcs\\DCS_HANDOFF_PACKET.md` after local runtime verification #mcp #dcs \ud83c\udd94 mcp-handoff-runtime-update 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-150051",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:51+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-150733": {
+      "action": "Update `docs\\dcs\\DCS_HANDOFF_PACKET.md` after local runtime verification #mcp #dcs \ud83c\udd94 mcp-handoff-runtime-update 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-150733",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:33+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-150835": {
+      "action": "Update `docs\\dcs\\DCS_HANDOFF_PACKET.md` after local runtime verification #mcp #dcs \ud83c\udd94 mcp-handoff-runtime-update 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-150835",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:35+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-151558": {
+      "action": "Update `docs\\dcs\\DCS_HANDOFF_PACKET.md` after local runtime verification #mcp #dcs \ud83c\udd94 mcp-handoff-runtime-update 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-update-docs-dcs-dcs_handoff_packet.md-after-local-runtime-verifi-20260510-151558",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:58+00:00",
+      "xp_awarded": 42
     },
     "vaultforge-code-updated-f-.4-readme.txt-to-document-the-courier-as-postman-not-a-20260501-035551": {
       "action": "Updated F:\\.4\\README.txt to document the courier as postman, not accountant, and point it at the vaultforge-xp4l adapter #dot4 #xp4l #docs",
@@ -1826,6 +4036,196 @@
       "timestamp": "2026-05-01T03:55:33+00:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-144414": {
+      "action": "Verify fresh Gate 003 relay tunnel for Developer Mode with public health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-relay-ready 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-144414",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:14+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-144855": {
+      "action": "Verify fresh Gate 003 relay tunnel for Developer Mode with public health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-relay-ready 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-144855",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:48:55+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-150016": {
+      "action": "Verify fresh Gate 003 relay tunnel for Developer Mode with public health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-relay-ready 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-150016",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:16+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-150038": {
+      "action": "Verify fresh Gate 003 relay tunnel for Developer Mode with public health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-relay-ready 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-150038",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:38+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-150719": {
+      "action": "Verify fresh Gate 003 relay tunnel for Developer Mode with public health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-relay-ready 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-150719",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:19+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-150820": {
+      "action": "Verify fresh Gate 003 relay tunnel for Developer Mode with public health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-relay-ready 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-150820",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:20+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-151543": {
+      "action": "Verify fresh Gate 003 relay tunnel for Developer Mode with public health, initialize, `tools/list`, `status`, and `list_sources` #mcp #network #chatgpt-apps #testing \ud83c\udd94 mcp-gate003-relay-ready 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-fresh-gate-003-relay-tunnel-for-developer-mode-with-publi-20260510-151543",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:43+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-144422": {
+      "action": "Verify MCP Inspector CLI against `http://127.0.0.1:8787/mcp`; it printed expected tools/results but exited with a Windows Node/libuv assertion #mcp #testing \ud83c\udd94 mcp-inspector-first-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-144422",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:44:22+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-144904": {
+      "action": "Verify MCP Inspector CLI against `http://127.0.0.1:8787/mcp`; it printed expected tools/results but exited with a Windows Node/libuv assertion #mcp #testing \ud83c\udd94 mcp-inspector-first-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-144904",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:49:04+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-150027": {
+      "action": "Verify MCP Inspector CLI against `http://127.0.0.1:8787/mcp`; it printed expected tools/results but exited with a Windows Node/libuv assertion #mcp #testing \ud83c\udd94 mcp-inspector-first-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-150027",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:27+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-150049": {
+      "action": "Verify MCP Inspector CLI against `http://127.0.0.1:8787/mcp`; it printed expected tools/results but exited with a Windows Node/libuv assertion #mcp #testing \ud83c\udd94 mcp-inspector-first-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-150049",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:49+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-150731": {
+      "action": "Verify MCP Inspector CLI against `http://127.0.0.1:8787/mcp`; it printed expected tools/results but exited with a Windows Node/libuv assertion #mcp #testing \ud83c\udd94 mcp-inspector-first-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-150731",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:31+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-150833": {
+      "action": "Verify MCP Inspector CLI against `http://127.0.0.1:8787/mcp`; it printed expected tools/results but exited with a Windows Node/libuv assertion #mcp #testing \ud83c\udd94 mcp-inspector-first-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-150833",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:33+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-151556": {
+      "action": "Verify MCP Inspector CLI against `http://127.0.0.1:8787/mcp`; it printed expected tools/results but exited with a Windows Node/libuv assertion #mcp #testing \ud83c\udd94 mcp-inspector-first-pass 2026-05-10",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-mcp-inspector-cli-against-http-127.0.0.1-8787-mcp-it-prin-20260510-151556",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:56+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-search-and-fetch-through-a-fresh-temporary-tunnel-and-con-20260510-150019": {
+      "action": "Verify `search` and `fetch` through a fresh temporary tunnel and confirm `.env` fetch is denied #mcp #network #testing \ud83c\udd94 mcp-search-fetch-relay-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-search-and-fetch-through-a-fresh-temporary-tunnel-and-con-20260510-150019",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:19+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-search-and-fetch-through-a-fresh-temporary-tunnel-and-con-20260510-150041": {
+      "action": "Verify `search` and `fetch` through a fresh temporary tunnel and confirm `.env` fetch is denied #mcp #network #testing \ud83c\udd94 mcp-search-fetch-relay-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-search-and-fetch-through-a-fresh-temporary-tunnel-and-con-20260510-150041",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:00:41+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-search-and-fetch-through-a-fresh-temporary-tunnel-and-con-20260510-150722": {
+      "action": "Verify `search` and `fetch` through a fresh temporary tunnel and confirm `.env` fetch is denied #mcp #network #testing \ud83c\udd94 mcp-search-fetch-relay-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-search-and-fetch-through-a-fresh-temporary-tunnel-and-con-20260510-150722",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:07:22+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-search-and-fetch-through-a-fresh-temporary-tunnel-and-con-20260510-150823": {
+      "action": "Verify `search` and `fetch` through a fresh temporary tunnel and confirm `.env` fetch is denied #mcp #network #testing \ud83c\udd94 mcp-search-fetch-relay-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-search-and-fetch-through-a-fresh-temporary-tunnel-and-con-20260510-150823",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:08:23+00:00",
+      "xp_awarded": 42
+    },
+    "vaultforge-code-verify-search-and-fetch-through-a-fresh-temporary-tunnel-and-con-20260510-151546": {
+      "action": "Verify `search` and `fetch` through a fresh temporary tunnel and confirm `.env` fetch is denied #mcp #network #testing \ud83c\udd94 mcp-search-fetch-relay-pass 2026-05-11",
+      "category": "general",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verify-search-and-fetch-through-a-fresh-temporary-tunnel-and-con-20260510-151546",
+      "event_type": "checklist_item_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T15:15:46+00:00",
+      "xp_awarded": 42
+    },
     "vaultforge-code-workflow-b-cycle-1-vaultforge-engine-review-20260509-195922": {
       "action": "completed Workflow B cycle 1 vaultforge-engine verification review",
       "category": "review",
@@ -1898,22 +4298,12 @@
     }
   },
   "last_run": {
-    "applied_at": "2026-05-10T14:31:45.498342+00:00",
+    "applied_at": "2026-05-10T15:16:59.065216+00:00",
     "applied_bonus_xp_awarded": 0,
-    "applied_event_ids": [
-      "vaultforge-code-mcp-gate003-tunnel-blocked-20260511-001300",
-      "vaultforge-code-mcp-devmode-test-packet-20260511-001310",
-      "vaultforge-code-mcp-xp4l-watcher-gate003-sync-20260511-001320",
-      "vaultforge-code-mcp-local-connection-quest-progress-20260511-001330"
-    ],
-    "applied_event_xp_awarded": 200,
-    "applied_xp_awarded": 200,
-    "batch_event_ids": [
-      "vaultforge-code-mcp-gate003-tunnel-blocked-20260511-001300",
-      "vaultforge-code-mcp-devmode-test-packet-20260511-001310",
-      "vaultforge-code-mcp-xp4l-watcher-gate003-sync-20260511-001320",
-      "vaultforge-code-mcp-local-connection-quest-progress-20260511-001330"
-    ],
+    "applied_event_ids": [],
+    "applied_event_xp_awarded": 0,
+    "applied_xp_awarded": 0,
+    "batch_event_ids": [],
     "duplicate_event_ids": [],
     "issued_reward_keys": []
   },
@@ -1957,8 +4347,8 @@
   "schema_version": 1,
   "totals": {
     "bonus_xp_awarded": 0,
-    "event_xp_awarded": 9406,
-    "events_processed": 188,
-    "xp_awarded": 9406
+    "event_xp_awarded": 19554,
+    "events_processed": 428,
+    "xp_awarded": 19554
   }
 }
