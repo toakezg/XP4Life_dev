@@ -1,0 +1,33 @@
+{
+  "adapter": "vaultforge-xp4l-dot4-inbox.v1",
+  "records": [
+    {
+      "context": {
+        "text": "Updated the MCP Local Connection Trial quest to 6 of 8 top-level tasks complete, leaving healthy Gate 003 tunnel retry and ChatGPT Developer Mode connection open."
+      },
+      "event": {
+        "action": "updated MCP Local Connection Trial quest progress",
+        "category": "coding",
+        "type": "task_completed"
+      },
+      "id": "vaultforge-code-mcp-local-connection-quest-progress-20260511-001330",
+      "metadata": {
+        "artifact_path": "F:\\XP4Life\\🖥 MENU\\Quests\\Active\\MCP Local Connection Trial.md",
+        "project": "MCP Setup",
+        "task_type": "xp4l-quest-update"
+      },
+      "occurred_at": "2026-05-11T00:13:30+10:00",
+      "source": "vaultforge-code",
+      "tags": [
+        "xp4l",
+        "dot4",
+        "vaultforge-code",
+        "mcp",
+        "xp4l-quest-update",
+        "mcp-setup",
+        "task_completed",
+        "coding"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "adapter": "vaultforge-xp4l-dot4-inbox.v1",
+  "records": [
+    {
+      "context": {
+        "text": "Local MCP health passed on 127.0.0.1:8787, but the refreshed public localtunnel URL returned 503 Tunnel Unavailable, so ChatGPT Developer Mode testing was stopped at the gate."
+      },
+      "event": {
+        "action": "recorded Gate 003 Developer Mode tunnel blocker",
+        "category": "coding",
+        "type": "task_completed"
+      },
+      "id": "vaultforge-code-mcp-gate003-tunnel-blocked-20260511-001300",
+      "metadata": {
+        "artifact_path": "F:\\servers\\mcp\\runs\\tunnel\\20260511T000900-gate003-devmode-ready\\RUN.md",
+        "project": "MCP Setup",
+        "task_type": "mcp-network-test"
+      },
+      "occurred_at": "2026-05-11T00:13:00+10:00",
+      "source": "vaultforge-code",
+      "tags": [
+        "xp4l",
+        "dot4",
+        "vaultforge-code",
+        "mcp",
+        "mcp-network-test",
+        "mcp-setup",
+        "task_completed",
+        "coding"
+      ]
+    }
+  ]
+}

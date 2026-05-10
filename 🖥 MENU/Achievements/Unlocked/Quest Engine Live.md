@@ -1,20 +1,20 @@
 ---
 achievement_id: VF-SYS-003
-name: "Quest Engine Live"
+name: Quest Engine Live
 category: system
 tier: rare
-global_rarity: "2%"
-industry_rarity: "12%"
-description: "Create a quest system that connects tasks, rewards, achievements, and progression."
+global_rarity: 2%
+industry_rarity: 12%
+description: Create a quest system that connects tasks, rewards, achievements, and progression.
 criteria:
   - Quest templates are live
   - At least one quest has a tested claim flow
   - Rewards and state changes are documented
 rewards:
-  - "+280 XP"
+  - +280 XP
   - "Unlock path: automation and triggers"
 xp_bonus: 280
-unlocked: false
+unlocked: true
 unlocked_on:
 linked_quests:
   - QST-SYS-003

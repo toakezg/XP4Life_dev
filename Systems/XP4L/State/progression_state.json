@@ -686,6 +686,16 @@
       "timestamp": "2026-04-30T19:05:30+00:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-copied-active-xp4life-obsidian-theme-into-f-servers-vault-and-ac-20260510-142825": {
+      "action": "copied active XP4Life Obsidian theme into F:\\servers vault and activated it",
+      "category": "tooling",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-copied-active-xp4life-obsidian-theme-into-f-servers-vault-and-ac-20260510-142825",
+      "event_type": "task_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:28:25+00:00",
+      "xp_awarded": 50
+    },
     "vaultforge-code-copied-f-tools-yt_dlp_downloader-configs-batch_natgeo.conf-to-f--20260430-190508": {
       "action": "Copied F:\\tools\\yt_dlp_downloader\\configs\\batch_NatGeo.conf to F:\\projects\\yt_dlp_downloader\\configs\\batch_NatGeo.tools-legacy.conf.",
       "category": "maintenance",
@@ -774,6 +784,16 @@
       "event_type": "checklist_item_completed",
       "source": "vaultforge-code",
       "timestamp": "2026-04-30T19:05:47+00:00",
+      "xp_awarded": 50
+    },
+    "vaultforge-code-created-gtheme-obsidian-codex-skill-for-copying-obsidian-themes--20260510-142825": {
+      "action": "created gtheme-obsidian Codex skill for copying Obsidian themes between vaults",
+      "category": "coding",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-created-gtheme-obsidian-codex-skill-for-copying-obsidian-themes--20260510-142825",
+      "event_type": "task_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:28:25+00:00",
       "xp_awarded": 50
     },
     "vaultforge-code-created-xp4life-quest-from-workflow-20260510-174148": {
@@ -1286,6 +1306,46 @@
       "timestamp": "2026-04-30T19:05:00+00:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-mcp-devmode-test-packet-20260511-001310": {
+      "action": "wrote ChatGPT Developer Mode MCP test packet",
+      "category": "coding",
+      "day": "2026-05-11",
+      "event_id": "vaultforge-code-mcp-devmode-test-packet-20260511-001310",
+      "event_type": "task_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-11T00:13:10+10:00",
+      "xp_awarded": 50
+    },
+    "vaultforge-code-mcp-gate003-tunnel-blocked-20260511-001300": {
+      "action": "recorded Gate 003 Developer Mode tunnel blocker",
+      "category": "coding",
+      "day": "2026-05-11",
+      "event_id": "vaultforge-code-mcp-gate003-tunnel-blocked-20260511-001300",
+      "event_type": "task_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-11T00:13:00+10:00",
+      "xp_awarded": 50
+    },
+    "vaultforge-code-mcp-local-connection-quest-progress-20260511-001330": {
+      "action": "updated MCP Local Connection Trial quest progress",
+      "category": "coding",
+      "day": "2026-05-11",
+      "event_id": "vaultforge-code-mcp-local-connection-quest-progress-20260511-001330",
+      "event_type": "task_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-11T00:13:30+10:00",
+      "xp_awarded": 50
+    },
+    "vaultforge-code-mcp-xp4l-watcher-gate003-sync-20260511-001320": {
+      "action": "updated XP4Life MCP quest watcher for Gate 003 tasks",
+      "category": "coding",
+      "day": "2026-05-11",
+      "event_id": "vaultforge-code-mcp-xp4l-watcher-gate003-sync-20260511-001320",
+      "event_type": "task_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-11T00:13:20+10:00",
+      "xp_awarded": 50
+    },
     "vaultforge-code-moved-f-code-new-folder-to-f-_trash_pending-code-new-folder-usin-20260430-190431": {
       "action": "Moved F:\\code\\New folder to F:\\_TRASH_PENDING\\code-New folder using a collision-safe target.",
       "category": "maintenance",
@@ -1716,6 +1776,26 @@
       "timestamp": "2026-05-01T03:55:43+00:00",
       "xp_awarded": 50
     },
+    "vaultforge-code-verified-codex-local-state-warning-appears-resolved-20260510-113534": {
+      "action": "verified Codex local state warning appears resolved",
+      "category": "coding",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verified-codex-local-state-warning-appears-resolved-20260510-113534",
+      "event_type": "task_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T11:35:34+00:00",
+      "xp_awarded": 50
+    },
+    "vaultforge-code-verified-mcp_key-exists-in-mcp-env-without-exposing-the-secret-v-20260510-142825": {
+      "action": "verified MCP_KEY exists in mcp env without exposing the secret value",
+      "category": "ops",
+      "day": "2026-05-10",
+      "event_id": "vaultforge-code-verified-mcp_key-exists-in-mcp-env-without-exposing-the-secret-v-20260510-142825",
+      "event_type": "task_completed",
+      "source": "vaultforge-code",
+      "timestamp": "2026-05-10T14:28:25+00:00",
+      "xp_awarded": 50
+    },
     "vaultforge-code-verified-the-courier-change-with-python--m-py_compile-stub.py-a--20260510-075547": {
       "action": "Verified the courier change with `python -m py_compile stub.py`, a temp-tree scan/cache round-trip, and `python stub.py --help`.",
       "category": "coding",
@@ -1818,31 +1898,21 @@
     }
   },
   "last_run": {
-    "applied_at": "2026-05-10T08:16:41.756676+00:00",
+    "applied_at": "2026-05-10T14:31:45.498342+00:00",
     "applied_bonus_xp_awarded": 0,
     "applied_event_ids": [
-      "xp4l-deep-quest-scan-20260510",
-      "dcs-doc-maturity-pass-20260510",
-      "xp4l-watcher-reusable-tool-pass-20260510",
-      "xp4l-quest-watcher-reliability-opened-20260510",
-      "vaultforge-code-dcs-workflow-growth-20260510-174148",
-      "vaultforge-code-created-xp4life-quest-from-workflow-20260510-174148",
-      "vaultforge-code-mythicnexus-gitignore-cleanup-20260510-175648",
-      "vaultforge-code-thread-thinker-route-survey-20260510-175900",
-      "vaultforge-code-thread-thinker-hidden-route-quest-20260510-175901"
+      "vaultforge-code-mcp-gate003-tunnel-blocked-20260511-001300",
+      "vaultforge-code-mcp-devmode-test-packet-20260511-001310",
+      "vaultforge-code-mcp-xp4l-watcher-gate003-sync-20260511-001320",
+      "vaultforge-code-mcp-local-connection-quest-progress-20260511-001330"
     ],
-    "applied_event_xp_awarded": 450,
-    "applied_xp_awarded": 450,
+    "applied_event_xp_awarded": 200,
+    "applied_xp_awarded": 200,
     "batch_event_ids": [
-      "xp4l-deep-quest-scan-20260510",
-      "dcs-doc-maturity-pass-20260510",
-      "xp4l-watcher-reusable-tool-pass-20260510",
-      "xp4l-quest-watcher-reliability-opened-20260510",
-      "vaultforge-code-dcs-workflow-growth-20260510-174148",
-      "vaultforge-code-created-xp4life-quest-from-workflow-20260510-174148",
-      "vaultforge-code-mythicnexus-gitignore-cleanup-20260510-175648",
-      "vaultforge-code-thread-thinker-route-survey-20260510-175900",
-      "vaultforge-code-thread-thinker-hidden-route-quest-20260510-175901"
+      "vaultforge-code-mcp-gate003-tunnel-blocked-20260511-001300",
+      "vaultforge-code-mcp-devmode-test-packet-20260511-001310",
+      "vaultforge-code-mcp-xp4l-watcher-gate003-sync-20260511-001320",
+      "vaultforge-code-mcp-local-connection-quest-progress-20260511-001330"
     ],
     "duplicate_event_ids": [],
     "issued_reward_keys": []
@@ -1887,8 +1957,8 @@
   "schema_version": 1,
   "totals": {
     "bonus_xp_awarded": 0,
-    "event_xp_awarded": 9006,
-    "events_processed": 180,
-    "xp_awarded": 9006
+    "event_xp_awarded": 9406,
+    "events_processed": 188,
+    "xp_awarded": 9406
   }
 }

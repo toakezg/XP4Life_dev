@@ -12,7 +12,7 @@ rewards:
   - +100 XP
   - "Unlock title: Example"
 xp_bonus: 50
-unlocked: false
+unlocked: true
 unlocked_on:
 linked_quests:
   - QST-005

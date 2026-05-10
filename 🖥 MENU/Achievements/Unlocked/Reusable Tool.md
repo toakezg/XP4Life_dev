@@ -1,20 +1,20 @@
 ---
 achievement_id: VF-BLD-002
-name: "Reusable Tool"
+name: Reusable Tool
 category: build
 tier: uncommon
-global_rarity: "10%"
-industry_rarity: "40%"
-description: "Build something you return to because it saves time or improves quality."
+global_rarity: 10%
+industry_rarity: 40%
+description: Build something you return to because it saves time or improves quality.
 criteria:
   - Used at least three times
   - Solves a repeated problem
   - Worth keeping in the workflow
 rewards:
-  - "+120 XP"
+  - +120 XP
   - "Unlock title: Toolsmith"
 xp_bonus: 120
-unlocked: false
+unlocked: true
 unlocked_on:
 linked_quests:
   - QST-BLD-001

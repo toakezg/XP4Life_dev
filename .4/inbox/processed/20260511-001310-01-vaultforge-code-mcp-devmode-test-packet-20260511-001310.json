@@ -1,0 +1,33 @@
+{
+  "adapter": "vaultforge-xp4l-dot4-inbox.v1",
+  "records": [
+    {
+      "context": {
+        "text": "Prepared the approved prompt packet for status, list_sources, blocked search, secret-read refusal, and write-action refusal against the current MCP tool surface."
+      },
+      "event": {
+        "action": "wrote ChatGPT Developer Mode MCP test packet",
+        "category": "coding",
+        "type": "task_completed"
+      },
+      "id": "vaultforge-code-mcp-devmode-test-packet-20260511-001310",
+      "metadata": {
+        "artifact_path": "F:\\servers\\mcp\\docs\\reference\\CHATGPT_DEVELOPER_MODE_TEST_PACKET.md",
+        "project": "MCP Setup",
+        "task_type": "mcp-chatgpt-docs"
+      },
+      "occurred_at": "2026-05-11T00:13:10+10:00",
+      "source": "vaultforge-code",
+      "tags": [
+        "xp4l",
+        "dot4",
+        "vaultforge-code",
+        "mcp",
+        "mcp-chatgpt-docs",
+        "mcp-setup",
+        "task_completed",
+        "coding"
+      ]
+    }
+  ]
+}
