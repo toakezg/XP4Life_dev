@@ -1,5 +1,6 @@
 ---
 title_id: TTL-001
+user: toakezg
 name: A Ready Man
 unlock_condition: Am Git Ready
 category: system
@@ -17,6 +18,7 @@ linked_quests:
   - QST-005
 criteria:
   - is git ready
+
 ---
 ![[xp4l-title-crown.png|225]]
 # A Ready Man

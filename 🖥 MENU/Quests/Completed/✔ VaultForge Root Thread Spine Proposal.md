@@ -1,5 +1,6 @@
 ---
 quest_id: QST-VF-ROOT-THREAD-SPINE
+user: toakezg
 name: "VaultForge Root Thread Spine"
 status: completed
 category: system
@@ -21,6 +22,7 @@ tags:
   - vaultforge
   - xp4l
   - proposal
+
 ---
 # VaultForge Root Thread Spine
 

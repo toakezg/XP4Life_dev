@@ -1,5 +1,6 @@
 ---
 achievement_id: VF-MNY-001
+user: toakezg
 name: "First Dollar Earned"
 category: money
 tier: uncommon
@@ -21,6 +22,7 @@ linked_quests:
 tags:
   - achievement
   - money
+
 ---
 # First Dollar Earned
 

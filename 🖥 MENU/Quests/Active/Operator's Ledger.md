@@ -1,5 +1,6 @@
 ---
 quest_id: QST-MNY-002
+user: toakezg
 name: "Operator's Ledger"
 status: active
 category: money
@@ -13,6 +14,7 @@ tags:
   - quest
   - money
   - system
+
 ---
 # Operator's Ledger
 

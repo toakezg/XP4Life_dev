@@ -1,5 +1,6 @@
 ---
 title_id: TTL-005
+user: toakezg
 name: Signal Runner
 unlock_condition: Publish work or an offer publicly so the market can actually respond.
 category: money
@@ -14,6 +15,7 @@ tags:
   - title
   - money
   - public
+
 ---
 # Signal Runner
 

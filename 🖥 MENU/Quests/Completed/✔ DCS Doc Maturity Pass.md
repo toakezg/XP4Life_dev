@@ -1,5 +1,6 @@
 ---
 quest_id: QST-DCS-DOC-MATURITY-PASS
+user: toakezg
 name: "DCS Doc Maturity Pass"
 status: completed
 category: system
@@ -19,8 +20,8 @@ tags:
   - system
   - dcs
   - codex-skill
----
 
+---
 # DCS Doc Maturity Pass
 
 ## Objective

@@ -1,5 +1,6 @@
 ---
 quest_id: QST-DCS-WORKFLOW-RELAY
+user: toakezg
 name: "DCS Workflow Relay"
 status: active
 category: system
@@ -21,6 +22,7 @@ tags:
   - workflow
   - xp4l
   - shared-workflows
+
 ---
 # DCS Workflow Relay
 
@@ -42,7 +44,7 @@ Keep the DCS workflow from living only inside one repo. Carry the repeatable che
   - [x] Point the note to `F:\toakezg\workflows`
   - [x] Mark project docs as local evidence
 - [ ] Promote the workflow README to the shared home
-  - [ ] Create or sync the reusable workflow README under `F:\toakezg\workflows`
+  - [x] Create or sync the reusable workflow README under `F:\toakezg\workflows`
   - [x] Keep project note and shared note aligned ✅ 2026-05-10
   - [ ] Confirm future runs can start from the shared root
 

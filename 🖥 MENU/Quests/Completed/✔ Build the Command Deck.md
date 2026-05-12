@@ -1,5 +1,6 @@
 ---
 quest_id: QST-SYS-002
+user: toakezg
 name: Build the Command Deck
 status: completed
 category: system
@@ -15,6 +16,7 @@ tags:
   - system
   - dashboard
 TQ_show_on_completion: true
+
 ---
 # Build the Command Deck
 

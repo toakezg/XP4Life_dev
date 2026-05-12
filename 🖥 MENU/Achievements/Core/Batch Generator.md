@@ -1,5 +1,6 @@
 ---
 achievement_id: VF-CRT-001
+user: toakezg
 name: "Batch Generator"
 category: creative
 tier: rare
@@ -21,6 +22,7 @@ linked_quests:
 tags:
   - achievement
   - creative
+
 ---
 # Batch Generator
 

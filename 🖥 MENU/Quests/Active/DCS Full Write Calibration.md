@@ -1,5 +1,6 @@
 ---
 quest_id: QST-DCS-FULL-WRITE-CALIBRATION
+user: toakezg
 name: "DCS Full Write Calibration"
 status: active
 category: system
@@ -19,8 +20,8 @@ tags:
   - system
   - dcs
   - codex-skill
----
 
+---
 # DCS Full Write Calibration
 
 ## Objective
@@ -41,8 +42,8 @@ The DCS forge now rejects empty shells, but the next gate is subtler: prove that
   - [ ] Preserve one failing thin/scaffold example
   - [ ] Record validator command lines and expected outcomes
 - [ ] Add repeatable validation workflow
-  - [ ] Decide whether examples live inside the skill or the skills README area
-  - [ ] Add a lightweight regression command or checklist
+  - [x] Decide whether examples live inside the skill or the skills README area
+  - [x] Add a lightweight regression command or checklist
   - [ ] Verify `map`, `rcs`, layer modes, and `write` mode stay distinct
 - [ ] Review and close evidence
   - [ ] Run the calibration set after one real `$dcs-doc` use

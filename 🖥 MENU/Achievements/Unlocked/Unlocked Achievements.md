@@ -1,10 +1,12 @@
 ---
+user: toakezg
 note_type: holding
 created: 2026-04-10
 status: active
 tags:
   - achievements
   - unlocked
+
 ---
 # Unlocked Achievements
 

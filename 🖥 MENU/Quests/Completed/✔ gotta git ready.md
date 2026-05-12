@@ -1,5 +1,6 @@
 ---
 quest_id: QST-005
+user: toakezg
 name: gotta git ready
 status: completed
 category: system
@@ -13,6 +14,7 @@ due: 2026-04-11
 tags:
   - quest
   - system
+
 ---
 # gotta git ready
 ![[xp4l-quest-scroll.png|253]]

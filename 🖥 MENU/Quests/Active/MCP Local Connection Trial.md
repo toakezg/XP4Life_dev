@@ -1,7 +1,8 @@
 ---
 quest_id: QST-MCP-LOCAL-CONNECTION-TRIAL
+user: toakezg
 name: "MCP Local Connection Trial"
-status: active
+status: completed
 category: system
 tier: rare
 xp_reward: 320
@@ -10,7 +11,7 @@ achievement_unlocks:
 title_reward: "Endpoint Runner"
 created: 2026-05-10
 due:
-progress_current: 6
+progress_current: 8
 progress_target: 8
 quest_type: manual
 xp4l_rule_id: mcp-local-connection-trial
@@ -21,6 +22,7 @@ tags:
   - chatgpt-apps
   - testing
   - xp4l
+
 ---
 # MCP Local Connection Trial
 
@@ -54,15 +56,15 @@ Bring the bridge alive without over-opening the gate. Start localhost, prove `/m
   - [x] Record the approved `status` prompt
   - [x] Record the approved `list_sources` prompt
   - [x] Record blocked `search`, secret-read, and write-action prompts
-- [ ] Retry a healthy Gate 003 tunnel
-  - [ ] Start a fresh temporary HTTPS tunnel
-  - [ ] Verify public health and `/mcp` initialize
-  - [ ] Stop if the tunnel returns 503, 408, or timeout
-- [ ] Connect ChatGPT Developer Mode
-  - [ ] Add the HTTPS `/mcp` URL
-  - [ ] Refresh after metadata changes
-  - [ ] Run direct, follow-up, and negative prompts
-  - [ ] Record pass/fail results
+- [x] Retry a healthy Gate 003 tunnel ✅ 2026-05-11
+  - [x] Start a fresh temporary HTTPS tunnel ✅ 2026-05-11
+  - [x] Verify public health and `/mcp` initialize ✅ 2026-05-11
+  - [x] Stop if the tunnel returns 503, 408, or timeout ✅ 2026-05-11
+- [x] Connect ChatGPT Developer Mode ✅ 2026-05-11
+  - [x] Add the HTTPS `/mcp` URL ✅ 2026-05-11
+  - [x] Refresh after metadata changes ✅ 2026-05-11
+  - [x] Run direct, follow-up, and negative prompts ✅ 2026-05-11
+  - [x] Record pass/fail results ✅ 2026-05-11
 
 ## Task Order Map
 ```dataviewjs
@@ -165,6 +167,7 @@ dv.paragraph("```mermaid\n" + chart + "\n```");
 - MCP Inspector lists and calls the first tool.
 - ChatGPT Developer Mode reaches the tunneled `/mcp` endpoint.
 - `LOCAL_TESTING.md` records the prompt set and pass/fail result.
+- Later scoped-write and approved-job passes proved the connection stayed usable beyond the original read-only surface.
 
 ## Source Notes
 - `F:\servers\mcp\docs\reference\PLAN.md`

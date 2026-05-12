@@ -1,5 +1,6 @@
 ---
 quest_id: QST-000
+user: toakezg
 name: "<% tp.file.title %>"
 status: active
 category: system
@@ -13,6 +14,7 @@ due:
 tags:
   - quest
   - system
+
 ---
 # <% tp.file.title %>
 ![[xp4l-quest-scroll.png|253]]
@@ -20,7 +22,7 @@ tags:
 <% tp.file.cursor(1) %>
 
 ## Tasks
-- [ ] First action
+- [x] First action ✅ 2026-05-11
 - [ ] Second action
 - [ ] Third action
 

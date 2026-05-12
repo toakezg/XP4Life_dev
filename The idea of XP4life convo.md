@@ -961,7 +961,7 @@ Achievement unlocked
 📝 Daily Note
 ## 🔧 Build Tasks
 - [ ] Finish batch image generator #build
-- [ ] Create 10 logo variations #creative
+- [x] Create 10 logo variations #creative
 
 ## 💰 Money Tasks
 - [ ] Draft Facebook ad for logo service #money
@@ -998,8 +998,8 @@ Gives visible progress
 
 2. Repeatable Systems
 - [ ] Work on VaultForge (daily) 🔁
-- [ ] Generate 5 assets 🔁
-➡️ This builds consistency → unlocks achievements naturally
+- [x] Generate 5 assets 🔁
+	➡️ This builds consistency → unlocks achievements naturally
 
 3. Bridging “Idea → Execution”
 You mentioned this yourself — this is where Tasks hits hardest.
@@ -1333,9 +1333,9 @@ You could make a daily page section like this:
 
 # Daily Quests
 
-- [ ] Complete 3 project tasks #daily-quest #build
-- [ ] Spend 30 minutes on active main quest #daily-quest
-- [ ] Export 1 usable asset #daily-quest #creative
+- [x] Complete 3 project tasks #daily-quest #build
+- [x] Spend 30 minutes on active main quest #daily-quest
+- [x] Export 1 usable asset #daily-quest #creative
 - [ ] Update progress note #daily-quest #system
 Nice plugin roles
 For this system:

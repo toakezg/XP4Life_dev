@@ -1,5 +1,6 @@
 ---
 title_id: TTL-001
+user: toakezg
 name: "Trail Initiate"
 unlock_condition: "Complete the first real quest and log proof of the result."
 category: system
@@ -13,6 +14,7 @@ linked_achievements:
 tags:
   - title
   - system
+
 ---
 ![[xp4l-trail-initiate.png|164]]
 # Trail Initiate

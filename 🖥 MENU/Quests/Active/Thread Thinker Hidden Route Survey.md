@@ -1,5 +1,6 @@
 ---
 quest_id: QST-THREAD-THINKER-HIDDEN-ROUTES
+user: toakezg
 name: "Thread Thinker Hidden Route Survey"
 status: active
 category: system
@@ -20,8 +21,8 @@ tags:
   - dcs
   - thread-thinker
   - xp4l
----
 
+---
 # Thread Thinker Hidden Route Survey
 
 ## Objective

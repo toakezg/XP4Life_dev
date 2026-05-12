@@ -1,5 +1,6 @@
 ---
 achievement_id: ACH-001
+user: toakezg
 name: Gone Get Git Ready!
 category: system
 tier: common
@@ -19,6 +20,7 @@ linked_quests:
 tags:
   - achievement
   - system
+
 ---
 ![[xp4l-achievement-medal.png|219]]
 # Gone Get Git Ready!

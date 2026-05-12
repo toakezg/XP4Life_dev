@@ -1,5 +1,6 @@
 ---
 quest_id: QST-MCP-DEVELOPER-MODE-RELAY
+user: toakezg
 name: "MCP Developer Mode Relay"
 status: active
 category: system
@@ -21,6 +22,7 @@ tags:
   - chatgpt-apps
   - testing
   - xp4l
+
 ---
 # MCP Developer Mode Relay
 
@@ -43,7 +45,7 @@ Carry the MCP bridge across the last live-connection gap. Keep the gate narrow, 
   - [x] Verify public `/mcp` initialize succeeds
   - [ ] Stop and record the blocker if the tunnel returns 503, 408, or timeout
 - [ ] Run the Developer Mode prompt packet
-  - [ ] Add the healthy temporary `/mcp` URL in ChatGPT Developer Mode
+  - [x] Add the healthy temporary `/mcp` URL in ChatGPT Developer Mode
   - [ ] Run the `status` prompt
   - [ ] Run the `list_sources` prompt
   - [ ] Run the blocked `search`, secret-read, and write-action prompts

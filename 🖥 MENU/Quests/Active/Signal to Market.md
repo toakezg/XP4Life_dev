@@ -1,5 +1,6 @@
 ---
 quest_id: QST-MNY-001
+user: toakezg
 name: "Signal to Market"
 status: active
 category: money
@@ -16,6 +17,7 @@ tags:
   - money
   - personal
   - public
+
 ---
 # Signal to Market
 

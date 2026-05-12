@@ -1,5 +1,6 @@
 ---
 achievement_id: VF-MNY-002
+user: toakezg
 name: "First Public Offer"
 category: money
 tier: rare
@@ -22,6 +23,7 @@ tags:
   - achievement
   - money
   - public
+
 ---
 # First Public Offer
 

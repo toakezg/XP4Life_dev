@@ -6,8 +6,8 @@ tags:
 #  TASKS
 
 ## Active
-- [ ] Decide whether Recovery Pack content lands before or after the first baseline commit. 2026-04-14 #task #recovery #git-ready
-- [ ] Review `RECOVERY_PLAN.md` and approve the first recovery content drop. 2026-04-14 #task #recovery #docs
+- [x] Decide whether Recovery Pack content lands before or after the first baseline commit. 2026-04-14 #task #recovery #git-ready
+- [x] Review `RECOVERY_PLAN.md` and approve the first recovery content drop. 2026-04-14 #task #recovery #docs
 
 ## Completed Today
 - [x] Read `SEE_ME.md` and created a recovery implementation plan for retroactive XP, recovered quests, hidden achievements, titles, rewards, and dot4 scanner practice. 2026-04-14 #task #recovery #docs
@@ -36,14 +36,14 @@ tags:
 - [x] Removed empty scratch files before the baseline review. 2026-04-11 #task #cleanup
 
 ## Next
-- [ ] Stage and commit the first baseline when approved. #task #git-ready
+- [x] Stage and commit the first baseline when approved. #task #git-ready
 - [ ] Convert Recovery Pack aggregate notes into YAML-bearing recovered quest, achievement, and title notes. #task #recovery
-- [ ] Create the Dot4 XP Node Spec and scanner practice payload examples. #task #scanner #dot4
+- [x] Create the Dot4 XP Node Spec and scanner practice payload examples. #task #scanner #dot4
 - [ ] Test scanner reporting on `.4/see-me.txt` before parsing XP tags. #task #scanner #dot4
 - [ ] Add a parser plan for XP tags like `#120XP` and `#200XP/bonus` after dot4 parsing works. #task #scanner #vaultforge
 - [ ] Keep rewards to seed items for now; defer gear rules, currency mechanics, and visual generators. #task #rewards #scope
 - [ ] Add daily quest structure only if it improves execution rather than clutter. #task #scope
 - [ ] Design a simple level curve after real XP has been earned. #task #xp
 - [ ] Add QuickAdd or Buttons only after the manual flow feels correct. #task #plugin #scope
-- [ ] Create pass 3 dashboard upgrades once plugin installation is confirmed. #task #dashboard
+- [x] Create pass 3 dashboard upgrades once plugin installation is confirmed. #task #dashboard
 - [ ] Plan quest chains after the first git baseline and at least two real quest completion loops. #task #scope

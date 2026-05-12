@@ -1,5 +1,6 @@
 ---
 quest_id: QST-CRT-002
+user: toakezg
 name: Creative Output Sprint
 status: completed
 category: creative
@@ -14,6 +15,7 @@ tags:
   - quest
   - creative
   - output
+
 ---
 # Creative Output Sprint
 

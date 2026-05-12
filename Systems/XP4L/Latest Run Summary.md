@@ -13,8 +13,8 @@ bonus_xp_awarded: 0
 applied_bonus_xp_awarded: 0
 total_xp_awarded: 0
 applied_total_xp_awarded: 0
-cumulative_total_xp: 19554
-cumulative_events_processed: 428
+cumulative_total_xp: 44022
+cumulative_events_processed: 1032
 quest_updates_count: 0
 completed_quests_count: 0
 unlocked_achievements_count: 0
@@ -34,7 +34,7 @@ tags:
 
 - Interpreted Batch XP: 0
 - Applied To Progression This Run: 0
-- Cumulative XP: 19554
+- Cumulative XP: 44022
 - Interpreted Events: 0
 - Applied Events: 0
 - Duplicate Events Skipped: 0

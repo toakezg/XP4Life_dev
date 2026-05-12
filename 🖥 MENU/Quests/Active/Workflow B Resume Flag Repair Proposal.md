@@ -1,5 +1,6 @@
 ---
 quest_id: QST-VF-WFB-RESUME-FLAG-REPAIR
+user: toakezg
 name: "Workflow B Resume Flag Repair"
 status: active
 category: system
@@ -21,6 +22,7 @@ tags:
   - vaultforge
   - xp4l
   - proposal
+
 ---
 # Workflow B Resume Flag Repair
 

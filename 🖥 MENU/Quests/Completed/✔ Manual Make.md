@@ -1,5 +1,6 @@
 ---
 quest_id: QST-SYS-04
+user: toakezg
 name: Manual Make
 status: completed
 category: system
@@ -12,6 +13,7 @@ due:
 tags:
   - quest
   - system
+
 ---
 # Manual Make
 

@@ -1,5 +1,6 @@
 ---
 quest_id: QST-MNY-003
+user: toakezg
 name: "First Client Run"
 status: locked
 category: money
@@ -17,6 +18,7 @@ tags:
   - money
   - creative
   - client
+
 ---
 # First Client Run
 

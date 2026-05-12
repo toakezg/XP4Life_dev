@@ -1,5 +1,6 @@
 ---
 quest_id: QST-VF-XP4L-CONTRACT-SPINE
+user: toakezg
 name: "XP4L Contract Spine"
 status: completed
 category: system
@@ -20,6 +21,7 @@ tags:
   - system
   - xp4l
   - vaultforge
+
 ---
 # XP4L Contract Spine
 

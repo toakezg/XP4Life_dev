@@ -1,5 +1,6 @@
 ---
 quest_id: QST-VF-ICON-PROPOSAL-FORGE
+user: toakezg
 name: "VaultForge Icon Proposal Forge"
 status: completed
 category: creative
@@ -21,6 +22,7 @@ tags:
   - icon
   - vaultforge
   - xp4l
+
 ---
 # VaultForge Icon Proposal Forge
 
