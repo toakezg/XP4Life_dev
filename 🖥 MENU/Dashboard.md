@@ -21,12 +21,14 @@ const summaries = dv.pages('"Systems/XP4L"')
 
 const latest = summaries[0];
 
+const isCompletedStatus = (status) => ["completed", "complete"].includes(String(status ?? "").toLowerCase());
+
 const completedQuests = dv.pages('"🖥 MENU/Quests"')
-  .where(p => p.status === "completed")
+  .where(p => p.quest_id && isCompletedStatus(p.status))
   .array();
 
 const unlockedAchievements = dv.pages('"🖥 MENU/Achievements"')
-  .where(p => p.unlocked === true)
+  .where(p => p.achievement_id && p.unlocked === true)
   .array();
 
 const questXp = completedQuests.reduce((sum, p) => sum + Number(p.xp_reward ?? 0), 0);
@@ -45,9 +47,12 @@ ____
 ```dataviewjs
 const questPages = dv.pages('"🖥 MENU/Quests"');
 const achievementPages = dv.pages('"🖥 MENU/Achievements"');
-const categories = ["build", "system", "creative", "money", "personal"];
+const categories = Array.from(new Set([
+  ...questPages.where(p => p.quest_id).array().map(p => String(p.category ?? "").toLowerCase()).filter(Boolean),
+  ...achievementPages.where(p => p.achievement_id).array().map(p => String(p.category ?? "").toLowerCase()).filter(Boolean)
+])).sort();
 const rows = categories.map(category => {
-  const completedQuests = questPages.where(p => (p.category ?? "").toLowerCase() === category && p.status === "completed").length;
+  const completedQuests = questPages.where(p => (p.category ?? "").toLowerCase() === category && ["completed", "complete"].includes(String(p.status ?? "").toLowerCase())).length;
   const activeQuests = questPages.where(p => (p.category ?? "").toLowerCase() === category && p.status === "active").length;
   const unlockedAchievements = achievementPages.where(p => (p.category ?? "").toLowerCase() === category && p.unlocked === true).length;
   return [category, activeQuests, completedQuests, unlockedAchievements];
@@ -74,7 +79,7 @@ ____
 ```dataview
 TABLE quest_id AS "Quest ID", category AS "Category", tier AS "Tier", xp_reward AS "XP"
 FROM "🖥 MENU/Quests"
-WHERE quest_id AND status = "completed"
+WHERE quest_id AND (status = "completed" OR status = "complete")
 SORT file.name ASC
 ```
 _____
@@ -82,9 +87,19 @@ _____
 ## ![174](../Assets/images/attatched/(imagename)/achievment.png)Unlocked Achievements
 ```dataview
 TABLE achievement_id AS "Achievement ID", category, tier, xp_bonus AS "XP Bonus", unlocked, unlocked_on
-FROM "🖥 MENU/Achievements/Unlocked"
-WHERE xp4l_generated = true
+FROM "🖥 MENU/Achievements"
+WHERE achievement_id AND unlocked = true
 SORT unlocked_on DESC
+```
+
+____
+
+## Rewards Issued
+```dataview
+TABLE reward_name AS "Reward", reward_type AS "Type", rarity AS "Rarity", awarded_on AS "Awarded", reason AS "Reason"
+FROM "Systems/XP4L/Rewards"
+WHERE note_type = "xp4l_reward"
+SORT awarded_on DESC
 ```
 
 ____
@@ -125,5 +140,4 @@ sort by path
 - Run one more quest through the full reward loop now that the foundation plugins are installed.
 - Start `Batch Forge Trial` or `Reusable Tool Pass` once a concrete build target is chosen.
 - Claim achievements by updating YAML as soon as proof exists.
-
 

@@ -14,6 +14,10 @@ rewards:
   - "+100 XP"
   - "Unlock title: Example"
 xp_bonus: 100
+status: locked
+points_status: pending_review
+live_xp: false
+xp4l_generated: false
 unlocked: false
 unlocked_on:
 linked_quests:
@@ -31,6 +35,9 @@ tags:
 
 ## Proof
 - Link evidence, notes, or outputs here when unlocked.
+
+## Source Notes
+- 
 
 ## Notes
 - Keep rarity grounded and update it if needed.

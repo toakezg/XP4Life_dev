@@ -11,6 +11,12 @@ achievement_unlocks:
 title_reward: ""
 created: <% tp.date.now("YYYY-MM-DD") %>
 due:
+progress_current: 0
+progress_target: 3
+quest_type: manual
+xp4l_rule_id: qst-000
+points_status: pending_review
+live_xp: false
 tags:
   - quest
   - system
@@ -33,6 +39,9 @@ tags:
 
 ## Completion Proof
 - Link, screenshot, output, or note that proves the quest was completed.
+
+## Source Notes
+- 
 
 ## Notes
 - Keep observations short and useful.
