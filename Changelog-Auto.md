@@ -1,5 +1,7 @@
 # 🦙 Automated Changelog
 
+- 2026-05-26T1420 · [[Three Day Forge Streak]]
+- 2026-05-17T1523 · [[✔ Creative Output Sprint]]
 - 2026-05-15T1026 · [[Dashboard]]
 - 2026-05-15T1026 · [[Reward Gear]]
 - 2026-05-15T1026 · [[New Achievement]]
@@ -37,7 +39,6 @@
 - 2026-05-11T1322 · [[Execution Over Idea]]
 - 2026-05-11T1322 · [[Engine Architect I]]
 - 2026-05-11T1322 · [[Architect's Sigil]]
-- 2026-05-11T1322 · [[Three Day Forge Streak]]
 - 2026-05-11T1322 · [[Engine Architect I]]
 - 2026-05-11T1322 · [[Repeat Income]]
 - 2026-05-11T1322 · [[Pushed Through Resistance]]
@@ -71,7 +72,6 @@
 - 2026-05-11T1322 · [[✔ Forge Foundations]]
 - 2026-05-11T1322 · [[✔ DCS Doc Review Fixes]]
 - 2026-05-11T1322 · [[✔ DCS Doc Maturity Pass]]
-- 2026-05-11T1322 · [[✔ Creative Output Sprint]]
 - 2026-05-11T1322 · [[✔ Complete 3 Batch Runs]]
 - 2026-05-11T1322 · [[✔ Build the Command Deck]]
 - 2026-05-11T1322 · [[✔ Batch Forge Trial]]

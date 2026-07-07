@@ -15,7 +15,6 @@ tags:
   - quest
   - creative
   - output
-
 ---
 # Creative Output Sprint
 
