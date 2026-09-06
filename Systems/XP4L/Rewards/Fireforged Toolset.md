@@ -1,5 +1,4 @@
 ---
-user: toakezg
 note_type: xp4l_reward
 xp4l_generated: true
 materialized_by: vaultforge-xp4l
@@ -13,7 +12,6 @@ tags:
   - reward
   - item
   - rare
-
 ---
 # Fireforged Toolset
 
